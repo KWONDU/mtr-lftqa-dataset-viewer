@@ -1,0 +1,71 @@
+{
+    "id": "0d57a091075edcf9869eaa2b2f25152fdb9cbfe30a4349687b0ed4f9147bedd1",
+    "metadata": "department_store | addresses",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "address_id",
+        "address_details"
+    ],
+    "cell": [
+        [
+            "1",
+            "28481 Crist Circle\nEast Burdettestad, IA 21232"
+        ],
+        [
+            "2",
+            "0292 Mitchel Pike\nPort Abefurt, IA 84402-4249"
+        ],
+        [
+            "3",
+            "4062 Mante Place\nWest Lindsey, DE 76199-8015"
+        ],
+        [
+            "4",
+            "99666 Julie Junction\nMarvinburgh, OH 16085-1623"
+        ],
+        [
+            "5",
+            "195 Mara Rue\nJenkinsmouth, OK 22345"
+        ],
+        [
+            "6",
+            "11784 Stehr Road\nPort Isaac, NV 61159"
+        ],
+        [
+            "7",
+            "69482 Renner Ville Suite 653\nLangworthborough, OH 95195"
+        ],
+        [
+            "8",
+            "36594 O'Keefe Lock\nNew Cali, RI 42319"
+        ],
+        [
+            "9",
+            "7181 Wuckert Port Apt. 571\nLake Zariaburgh, IL 98085"
+        ],
+        [
+            "10",
+            "92594 Marvin Trafficway\nPourosfurt, IA 98649"
+        ],
+        [
+            "11",
+            "0258 Kessler Mountains Suite 688\nMooreside, ME 41586-5022"
+        ],
+        [
+            "12",
+            "69275 Mose Drive\nWilkinsonstad, CO 79055-7622"
+        ],
+        [
+            "13",
+            "8207 Morissette Lakes\nEast Rheaview, ID 47493"
+        ],
+        [
+            "14",
+            "145 Alice Corners\nWillmsport, NV 36680"
+        ],
+        [
+            "15",
+            "521 Molly Harbors Apt. 567\nReingerland, HI 97099-1005"
+        ]
+    ]
+}

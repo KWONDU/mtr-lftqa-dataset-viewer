@@ -1,0 +1,183 @@
+{
+    "id": "46d5d453a323a56c49e54cbfac91cf2e4944f62558c665ec5679aba28b99b75c",
+    "metadata": "student_transcripts_tracking | addresses",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "address_id",
+        "line_1",
+        "line_2",
+        "line_3",
+        "city",
+        "zip_postcode",
+        "state_province_county",
+        "country",
+        "other_address_details"
+    ],
+    "cell": [
+        [
+            "1",
+            "2294 Grant Square Apt. 235",
+            "Apt. 370",
+            "None",
+            "Port Chelsea",
+            "148",
+            "Virginia",
+            "Iceland",
+            "None"
+        ],
+        [
+            "2",
+            "3999 Aufderhar Ways Suite 593",
+            "Apt. 388",
+            "None",
+            "Lake Laishafurt",
+            "943",
+            "Kentucky",
+            "Burundi",
+            "None"
+        ],
+        [
+            "3",
+            "67942 Carlotta Ferry Apt. 686",
+            "Apt. 583",
+            "None",
+            "Goodwinhaven",
+            "541",
+            "Kansas",
+            "Saudi Arabia",
+            "None"
+        ],
+        [
+            "4",
+            "0144 Lamar Plaza Apt. 346",
+            "Suite 703",
+            "None",
+            "Port Evanston",
+            "847",
+            "Washington",
+            "Angola",
+            "None"
+        ],
+        [
+            "5",
+            "858 Peggie Bypass Suite 212",
+            "Apt. 335",
+            "None",
+            "Michelleburgh",
+            "446",
+            "Hawaii",
+            "Haiti",
+            "None"
+        ],
+        [
+            "6",
+            "16998 Mraz Lodge",
+            "Apt. 689",
+            "None",
+            "North Omer",
+            "902",
+            "Kentucky",
+            "Gibraltar",
+            "None"
+        ],
+        [
+            "7",
+            "193 Marlin Brook",
+            "Apt. 406",
+            "None",
+            "Herzoghaven",
+            "068",
+            "Arkansas",
+            "Cook Islands",
+            "None"
+        ],
+        [
+            "8",
+            "202 Hessel Views Apt. 468",
+            "Apt. 305",
+            "None",
+            "Mariliehaven",
+            "638",
+            "Idaho",
+            "Croatia",
+            "None"
+        ],
+        [
+            "9",
+            "0643 Muller Vista",
+            "Suite 383",
+            "None",
+            "Port Elvisfurt",
+            "777",
+            "NorthCarolina",
+            "Gabon",
+            "None"
+        ],
+        [
+            "10",
+            "7081 Eda Center",
+            "Suite 830",
+            "None",
+            "Rutherfordtown",
+            "839",
+            "Delaware",
+            "Kyrgyz Republic",
+            "None"
+        ],
+        [
+            "11",
+            "9283 Schulist Falls Apt. 037",
+            "Suite 239",
+            "None",
+            "South Palma",
+            "400",
+            "WestVirginia",
+            "Bermuda",
+            "None"
+        ],
+        [
+            "12",
+            "979 Haag Shores Suite 656",
+            "Apt. 468",
+            "None",
+            "Prohaskafort",
+            "590",
+            "SouthDakota",
+            "Lesotho",
+            "None"
+        ],
+        [
+            "13",
+            "492 Wilkinson Route",
+            "Suite 865",
+            "None",
+            "New Clemensburgh",
+            "386",
+            "Florida",
+            "Samoa",
+            "None"
+        ],
+        [
+            "14",
+            "186 Evan Motorway Apt. 409",
+            "Suite 079",
+            "None",
+            "Lake Careyberg",
+            "895",
+            "Kentucky",
+            "New Caledonia",
+            "None"
+        ],
+        [
+            "15",
+            "74046 Metz Walk Apt. 113",
+            "Suite 674",
+            "None",
+            "Port Oceane",
+            "669",
+            "Wyoming",
+            "Norfolk Island",
+            "None"
+        ]
+    ]
+}

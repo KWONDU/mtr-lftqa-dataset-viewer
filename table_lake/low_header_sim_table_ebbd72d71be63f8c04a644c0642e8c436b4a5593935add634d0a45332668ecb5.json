@@ -1,0 +1,87 @@
+{
+    "id": "ebbd72d71be63f8c04a644c0642e8c436b4a5593935add634d0a45332668ecb5",
+    "metadata": "cre_doc_control_systems | document_drafts",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "document_id",
+        "draft_number",
+        "draft_details"
+    ],
+    "cell": [
+        [
+            "1",
+            "0",
+            "e"
+        ],
+        [
+            "1",
+            "2",
+            "k"
+        ],
+        [
+            "2",
+            "1",
+            "v"
+        ],
+        [
+            "2",
+            "8",
+            "v"
+        ],
+        [
+            "4",
+            "9",
+            "r"
+        ],
+        [
+            "7",
+            "10",
+            "m"
+        ],
+        [
+            "10",
+            "20",
+            "k"
+        ],
+        [
+            "12",
+            "11",
+            "b"
+        ],
+        [
+            "12",
+            "12",
+            "r"
+        ],
+        [
+            "13",
+            "4",
+            "w"
+        ],
+        [
+            "13",
+            "16",
+            "p"
+        ],
+        [
+            "14",
+            "14",
+            "x"
+        ],
+        [
+            "17",
+            "19",
+            "a"
+        ],
+        [
+            "20",
+            "17",
+            "l"
+        ],
+        [
+            "23",
+            "9",
+            "r"
+        ]
+    ]
+}

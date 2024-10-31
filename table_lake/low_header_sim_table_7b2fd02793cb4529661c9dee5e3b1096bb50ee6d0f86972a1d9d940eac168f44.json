@@ -1,0 +1,55 @@
+{
+    "id": "7b2fd02793cb4529661c9dee5e3b1096bb50ee6d0f86972a1d9d940eac168f44",
+    "metadata": "train_station | train_station",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Train_ID",
+        "Station_ID"
+    ],
+    "cell": [
+        [
+            "1",
+            "1"
+        ],
+        [
+            "2",
+            "1"
+        ],
+        [
+            "3",
+            "1"
+        ],
+        [
+            "4",
+            "2"
+        ],
+        [
+            "5",
+            "3"
+        ],
+        [
+            "6",
+            "5"
+        ],
+        [
+            "7",
+            "8"
+        ],
+        [
+            "8",
+            "9"
+        ],
+        [
+            "9",
+            "9"
+        ],
+        [
+            "10",
+            "10"
+        ],
+        [
+            "11",
+            "10"
+        ]
+    ]
+}

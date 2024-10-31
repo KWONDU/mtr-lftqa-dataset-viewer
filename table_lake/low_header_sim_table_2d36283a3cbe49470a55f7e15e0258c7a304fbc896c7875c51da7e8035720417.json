@@ -1,0 +1,49 @@
+{
+    "id": "2d36283a3cbe49470a55f7e15e0258c7a304fbc896c7875c51da7e8035720417",
+    "metadata": "riding_club | coach",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Coach_ID",
+        "Coach_name",
+        "Gender",
+        "Club_ID",
+        "Rank"
+    ],
+    "cell": [
+        [
+            "1",
+            "Jameson Tomas",
+            "M",
+            "1",
+            "1"
+        ],
+        [
+            "2",
+            "Joe Fabbri",
+            "F",
+            "1",
+            "2"
+        ],
+        [
+            "3",
+            "Robert Chen",
+            "M",
+            "3",
+            "3"
+        ],
+        [
+            "4",
+            "James Wong",
+            "M",
+            "3",
+            "4"
+        ],
+        [
+            "5",
+            "Smith Brown",
+            "M",
+            "1",
+            "5"
+        ]
+    ]
+}

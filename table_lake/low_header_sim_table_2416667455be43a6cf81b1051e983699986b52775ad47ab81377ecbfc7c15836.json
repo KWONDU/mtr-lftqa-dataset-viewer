@@ -1,0 +1,42 @@
+{
+    "id": "2416667455be43a6cf81b1051e983699986b52775ad47ab81377ecbfc7c15836",
+    "metadata": "city_record | hosting_city",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Year",
+        "Match_ID",
+        "Host_City"
+    ],
+    "cell": [
+        [
+            "2008",
+            "1",
+            "1"
+        ],
+        [
+            "2009",
+            "2",
+            "2"
+        ],
+        [
+            "2010",
+            "3",
+            "2"
+        ],
+        [
+            "2011",
+            "4",
+            "6"
+        ],
+        [
+            "2012",
+            "5",
+            "12"
+        ],
+        [
+            "2013",
+            "6",
+            "11"
+        ]
+    ]
+}

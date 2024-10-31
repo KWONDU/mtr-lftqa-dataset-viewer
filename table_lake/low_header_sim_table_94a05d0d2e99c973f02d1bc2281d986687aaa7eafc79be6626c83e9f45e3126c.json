@@ -1,0 +1,77 @@
+{
+    "id": "94a05d0d2e99c973f02d1bc2281d986687aaa7eafc79be6626c83e9f45e3126c",
+    "metadata": "theme_gallery | exhibition_record",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Exhibition_ID",
+        "Date",
+        "Attendance"
+    ],
+    "cell": [
+        [
+            "1",
+            "December 2",
+            "965"
+        ],
+        [
+            "1",
+            "December 5",
+            "1098"
+        ],
+        [
+            "1",
+            "December 7",
+            "2983"
+        ],
+        [
+            "2",
+            "December 9",
+            "1239"
+        ],
+        [
+            "2",
+            "December 12",
+            "1313"
+        ],
+        [
+            "2",
+            "December 13",
+            "10908"
+        ],
+        [
+            "3",
+            "December 16",
+            "1134"
+        ],
+        [
+            "3",
+            "February 19",
+            "1233"
+        ],
+        [
+            "3",
+            "February 21",
+            "9089"
+        ],
+        [
+            "4",
+            "February 23",
+            "3139"
+        ],
+        [
+            "5",
+            "February 25",
+            "24808"
+        ],
+        [
+            "5",
+            "February 26",
+            "13142"
+        ],
+        [
+            "5",
+            "February 28",
+            "4231"
+        ]
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "29469a02037f2169db4cbfdb0bcc67693977339e4810b0c2acb5918c08a089c3",
+    "metadata": "department_store | departments",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "department_id",
+        "dept_store_id",
+        "department_name"
+    ],
+    "cell": [
+        [
+            "1",
+            "5",
+            "human resource"
+        ],
+        [
+            "2",
+            "11",
+            "purchasing"
+        ],
+        [
+            "3",
+            "4",
+            "marketing"
+        ],
+        [
+            "4",
+            "11",
+            "advertising"
+        ],
+        [
+            "5",
+            "4",
+            "managing"
+        ]
+    ]
+}

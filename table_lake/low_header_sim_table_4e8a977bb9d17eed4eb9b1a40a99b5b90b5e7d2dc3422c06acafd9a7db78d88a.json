@@ -1,0 +1,31 @@
+{
+    "id": "4e8a977bb9d17eed4eb9b1a40a99b5b90b5e7d2dc3422c06acafd9a7db78d88a",
+    "metadata": "real_estate_properties | other_available_features",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "feature_id",
+        "feature_type_code",
+        "feature_name",
+        "feature_description"
+    ],
+    "cell": [
+        [
+            "2",
+            "Amenity",
+            "AirCon",
+            "Air Conditioning."
+        ],
+        [
+            "3",
+            "Amenity",
+            "Pool",
+            "Swimming Pool."
+        ],
+        [
+            "4",
+            "Security",
+            "BurglarAlarm",
+            "Burglar Alarm"
+        ]
+    ]
+}

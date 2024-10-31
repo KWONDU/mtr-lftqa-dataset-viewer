@@ -1,0 +1,70 @@
+{
+    "id": "183649bce3b0cbf0737afaf487e14291d29b0ac8dc9d9380d3aa9865d9bf0efb",
+    "metadata": "riding_club | match_result",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Rank",
+        "Club_ID",
+        "Gold",
+        "Big_Silver",
+        "Small_Silver",
+        "Bronze",
+        "Points"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "20",
+            "14",
+            "9",
+            "8",
+            "168"
+        ],
+        [
+            "2",
+            "2",
+            "13",
+            "11",
+            "16",
+            "9",
+            "139"
+        ],
+        [
+            "3",
+            "3",
+            "12",
+            "9",
+            "4",
+            "7",
+            "102"
+        ],
+        [
+            "4",
+            "4",
+            "5",
+            "12",
+            "10",
+            "8",
+            "89"
+        ],
+        [
+            "5",
+            "5",
+            "7",
+            "7",
+            "9",
+            "10",
+            "84"
+        ],
+        [
+            "6",
+            "6",
+            "6",
+            "6",
+            "6",
+            "6",
+            "66"
+        ]
+    ]
+}

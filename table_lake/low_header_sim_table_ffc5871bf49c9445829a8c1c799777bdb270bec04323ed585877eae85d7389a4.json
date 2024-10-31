@@ -1,0 +1,42 @@
+{
+    "id": "ffc5871bf49c9445829a8c1c799777bdb270bec04323ed585877eae85d7389a4",
+    "metadata": "workshop_paper | acceptance",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Submission_ID",
+        "Workshop_ID",
+        "Result"
+    ],
+    "cell": [
+        [
+            "2",
+            "5",
+            "Accepted"
+        ],
+        [
+            "2",
+            "3",
+            "Rejected"
+        ],
+        [
+            "3",
+            "2",
+            "Rejected"
+        ],
+        [
+            "4",
+            "6",
+            "Rejected"
+        ],
+        [
+            "5",
+            "6",
+            "Rejected"
+        ],
+        [
+            "1",
+            "1",
+            "Accepted"
+        ]
+    ]
+}

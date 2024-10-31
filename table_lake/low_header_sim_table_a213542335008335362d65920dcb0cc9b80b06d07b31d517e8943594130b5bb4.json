@@ -1,0 +1,39 @@
+{
+    "id": "a213542335008335362d65920dcb0cc9b80b06d07b31d517e8943594130b5bb4",
+    "metadata": "hospital_1 | prescribes",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Physician",
+        "Patient",
+        "Medication",
+        "Date",
+        "Appointment",
+        "Dose"
+    ],
+    "cell": [
+        [
+            "1",
+            "100000001",
+            "1",
+            "2008-04-24 10:47",
+            "13216584.0",
+            "5"
+        ],
+        [
+            "9",
+            "100000004",
+            "2",
+            "2008-04-27 10:53",
+            "86213939.0",
+            "10"
+        ],
+        [
+            "9",
+            "100000004",
+            "2",
+            "2008-04-30 16:53",
+            "None",
+            "5"
+        ]
+    ]
+}

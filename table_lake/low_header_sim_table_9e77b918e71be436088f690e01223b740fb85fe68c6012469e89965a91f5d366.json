@@ -1,0 +1,23 @@
+{
+    "id": "9e77b918e71be436088f690e01223b740fb85fe68c6012469e89965a91f5d366",
+    "metadata": "behavior_monitoring | ref_incident_type",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "incident_type_code",
+        "incident_type_description"
+    ],
+    "cell": [
+        [
+            "NOISE",
+            "Noise"
+        ],
+        [
+            "VIOLENCE",
+            "Violence"
+        ],
+        [
+            "DISTURB",
+            "Disturbance"
+        ]
+    ]
+}

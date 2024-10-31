@@ -1,0 +1,32 @@
+{
+    "id": "cef4c385cdae0fd8064b226b848d2bc8bc32e1689030c398fb46238299dd5b64",
+    "metadata": "product_catalog | attribute_definitions",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "attribute_id",
+        "attribute_name",
+        "attribute_data_type"
+    ],
+    "cell": [
+        [
+            "1",
+            "Green",
+            "Bool"
+        ],
+        [
+            "2",
+            "Black",
+            "Bool"
+        ],
+        [
+            "3",
+            "Yellow",
+            "Bool"
+        ],
+        [
+            "4",
+            "Sweet",
+            "Bool"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "3a92e49624e82144c8636927f79c3f91235b1a1d08e45b5de271a84a6d4193a9",
+    "metadata": "store_product | store_district",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Store_ID",
+        "District_ID"
+    ],
+    "cell": [
+        [
+            "1",
+            "15"
+        ],
+        [
+            "2",
+            "15"
+        ],
+        [
+            "3",
+            "11"
+        ],
+        [
+            "4",
+            "4"
+        ],
+        [
+            "5",
+            "3"
+        ]
+    ]
+}

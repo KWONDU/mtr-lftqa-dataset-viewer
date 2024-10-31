@@ -1,0 +1,42 @@
+{
+    "id": "5dcbb2f88fade81766e201c8aac07b80a50f56202d76f8c99148e0bc36952918",
+    "metadata": "loan_1 | bank",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "branch_ID",
+        "bname",
+        "no_of_customers",
+        "city",
+        "state"
+    ],
+    "cell": [
+        [
+            "1",
+            "morningside",
+            "203",
+            "New York City",
+            "New York"
+        ],
+        [
+            "2",
+            "downtown",
+            "123",
+            "Salt Lake City",
+            "Utah"
+        ],
+        [
+            "3",
+            "broadway",
+            "453",
+            "New York City",
+            "New York"
+        ],
+        [
+            "4",
+            "high",
+            "367",
+            "Austin",
+            "Texas"
+        ]
+    ]
+}

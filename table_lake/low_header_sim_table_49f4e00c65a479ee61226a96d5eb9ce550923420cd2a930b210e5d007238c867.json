@@ -1,0 +1,67 @@
+{
+    "id": "49f4e00c65a479ee61226a96d5eb9ce550923420cd2a930b210e5d007238c867",
+    "metadata": "program_share | broadcast",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Channel_ID",
+        "Program_ID",
+        "Time_of_day"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "Morning"
+        ],
+        [
+            "2",
+            "1",
+            "Night"
+        ],
+        [
+            "3",
+            "2",
+            "Morning"
+        ],
+        [
+            "4",
+            "1",
+            "Night"
+        ],
+        [
+            "5",
+            "4",
+            "Morning"
+        ],
+        [
+            "6",
+            "3",
+            "Morning"
+        ],
+        [
+            "7",
+            "3",
+            "Noon"
+        ],
+        [
+            "8",
+            "2",
+            "Night"
+        ],
+        [
+            "9",
+            "3",
+            "Noon"
+        ],
+        [
+            "10",
+            "4",
+            "Night"
+        ],
+        [
+            "1",
+            "2",
+            "Night"
+        ]
+    ]
+}

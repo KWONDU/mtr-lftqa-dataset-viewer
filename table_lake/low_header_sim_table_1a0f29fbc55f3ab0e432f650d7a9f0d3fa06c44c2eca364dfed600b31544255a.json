@@ -1,0 +1,19 @@
+{
+    "id": "1a0f29fbc55f3ab0e432f650d7a9f0d3fa06c44c2eca364dfed600b31544255a",
+    "metadata": "tracking_grants_for_research | staff_roles",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "role_code",
+        "role_description"
+    ],
+    "cell": [
+        [
+            "leader",
+            "Project Leader"
+        ],
+        [
+            "researcher",
+            "Project Researcher"
+        ]
+    ]
+}

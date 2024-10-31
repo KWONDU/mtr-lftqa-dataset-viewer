@@ -1,0 +1,31 @@
+{
+    "id": "224cc7a4470ee8dfaaa214ecbd7f928e6a3f2ccc3537dc6a727482c132bdda82",
+    "metadata": "store_1 | media_types",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "id",
+        "name"
+    ],
+    "cell": [
+        [
+            "1",
+            "MPEG audio file"
+        ],
+        [
+            "2",
+            "Protected AAC audio file"
+        ],
+        [
+            "3",
+            "Protected MPEG-4 video file"
+        ],
+        [
+            "4",
+            "Purchased AAC audio file"
+        ],
+        [
+            "5",
+            "AAC audio file"
+        ]
+    ]
+}

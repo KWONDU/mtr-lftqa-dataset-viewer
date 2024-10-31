@@ -1,0 +1,43 @@
+{
+    "id": "400fd81a5e5b190571160bc0d677eea90d8edbadfe0769e5a80b31042ab065fb",
+    "metadata": "hospital_1 | medication",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Code",
+        "Name",
+        "Brand",
+        "Description"
+    ],
+    "cell": [
+        [
+            "1",
+            "Procrastin-X",
+            "X",
+            "N/A"
+        ],
+        [
+            "2",
+            "Thesisin",
+            "Foo Labs",
+            "N/A"
+        ],
+        [
+            "3",
+            "Awakin",
+            "Bar Laboratories",
+            "N/A"
+        ],
+        [
+            "4",
+            "Crescavitin",
+            "Baz Industries",
+            "N/A"
+        ],
+        [
+            "5",
+            "Melioraurin",
+            "Snafu Pharmaceuticals",
+            "N/A"
+        ]
+    ]
+}

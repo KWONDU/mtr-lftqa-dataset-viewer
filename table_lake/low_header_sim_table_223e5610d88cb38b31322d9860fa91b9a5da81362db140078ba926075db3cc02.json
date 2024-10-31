@@ -1,0 +1,31 @@
+{
+    "id": "223e5610d88cb38b31322d9860fa91b9a5da81362db140078ba926075db3cc02",
+    "metadata": "car_1 | continents",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "ContId",
+        "Continent"
+    ],
+    "cell": [
+        [
+            "1",
+            "america"
+        ],
+        [
+            "2",
+            "europe"
+        ],
+        [
+            "3",
+            "asia"
+        ],
+        [
+            "4",
+            "africa"
+        ],
+        [
+            "5",
+            "australia"
+        ]
+    ]
+}

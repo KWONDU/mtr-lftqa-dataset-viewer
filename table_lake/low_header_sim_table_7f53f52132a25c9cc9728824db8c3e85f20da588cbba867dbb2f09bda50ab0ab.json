@@ -1,0 +1,87 @@
+{
+    "id": "7f53f52132a25c9cc9728824db8c3e85f20da588cbba867dbb2f09bda50ab0ab",
+    "metadata": "tracking_grants_for_research | project_outcomes",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "project_id",
+        "outcome_code",
+        "outcome_details"
+    ],
+    "cell": [
+        [
+            "4",
+            "Paper",
+            "None"
+        ],
+        [
+            "3",
+            "Patent",
+            "None"
+        ],
+        [
+            "9",
+            "Paper",
+            "None"
+        ],
+        [
+            "6",
+            "Paper",
+            "None"
+        ],
+        [
+            "9",
+            "Patent",
+            "None"
+        ],
+        [
+            "11",
+            "Paper",
+            "None"
+        ],
+        [
+            "14",
+            "Patent",
+            "None"
+        ],
+        [
+            "14",
+            "Paper",
+            "None"
+        ],
+        [
+            "13",
+            "Paper",
+            "None"
+        ],
+        [
+            "12",
+            "Patent",
+            "None"
+        ],
+        [
+            "7",
+            "Paper",
+            "None"
+        ],
+        [
+            "5",
+            "Patent",
+            "None"
+        ],
+        [
+            "7",
+            "Paper",
+            "None"
+        ],
+        [
+            "13",
+            "Paper",
+            "None"
+        ],
+        [
+            "7",
+            "Paper",
+            "None"
+        ]
+    ]
+}

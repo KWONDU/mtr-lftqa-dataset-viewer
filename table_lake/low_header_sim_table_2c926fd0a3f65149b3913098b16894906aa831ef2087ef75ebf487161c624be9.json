@@ -1,0 +1,47 @@
+{
+    "id": "2c926fd0a3f65149b3913098b16894906aa831ef2087ef75ebf487161c624be9",
+    "metadata": "journal_committee | journal_committee",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Editor_ID",
+        "Journal_ID",
+        "Work_Type"
+    ],
+    "cell": [
+        [
+            "1",
+            "13",
+            "Photo"
+        ],
+        [
+            "8",
+            "17",
+            "Article"
+        ],
+        [
+            "6",
+            "11",
+            "Photo"
+        ],
+        [
+            "4",
+            "2",
+            "Article"
+        ],
+        [
+            "3",
+            "6",
+            "Title"
+        ],
+        [
+            "9",
+            "12",
+            "Photo"
+        ],
+        [
+            "8",
+            "4",
+            "Photo"
+        ]
+    ]
+}

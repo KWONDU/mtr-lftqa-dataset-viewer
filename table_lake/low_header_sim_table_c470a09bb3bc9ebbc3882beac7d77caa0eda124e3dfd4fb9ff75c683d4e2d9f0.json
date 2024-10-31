@@ -1,0 +1,42 @@
+{
+    "id": "c470a09bb3bc9ebbc3882beac7d77caa0eda124e3dfd4fb9ff75c683d4e2d9f0",
+    "metadata": "employee_hire_evaluation | evaluation",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Employee_ID",
+        "Year_awarded",
+        "Bonus"
+    ],
+    "cell": [
+        [
+            "1",
+            "2011",
+            "3000.0"
+        ],
+        [
+            "2",
+            "2015",
+            "3200.0"
+        ],
+        [
+            "1",
+            "2016",
+            "2900.0"
+        ],
+        [
+            "4",
+            "2017",
+            "3200.0"
+        ],
+        [
+            "7",
+            "2018",
+            "3200.0"
+        ],
+        [
+            "10",
+            "2016",
+            "4000.0"
+        ]
+    ]
+}

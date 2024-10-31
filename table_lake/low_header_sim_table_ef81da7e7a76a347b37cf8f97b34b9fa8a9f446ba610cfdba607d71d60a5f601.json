@@ -1,0 +1,27 @@
+{
+    "id": "ef81da7e7a76a347b37cf8f97b34b9fa8a9f446ba610cfdba607d71d60a5f601",
+    "metadata": "cre_theme_park | shops",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Shop_ID",
+        "Shop_Details"
+    ],
+    "cell": [
+        [
+            "8429",
+            "soup"
+        ],
+        [
+            "8449",
+            "coffee"
+        ],
+        [
+            "8698",
+            "Flower"
+        ],
+        [
+            "9360",
+            "see food"
+        ]
+    ]
+}

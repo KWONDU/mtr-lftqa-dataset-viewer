@@ -1,0 +1,79 @@
+{
+    "id": "bf8dabde33a0ef06b63f3e709ffdda033af02930f89900a4eeb9d5c4c76ea766",
+    "metadata": "manufactory_1 | products",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Code",
+        "Name",
+        "Price",
+        "Manufacturer"
+    ],
+    "cell": [
+        [
+            "1",
+            "Hard drive",
+            "240",
+            "5"
+        ],
+        [
+            "2",
+            "Memory",
+            "120",
+            "6"
+        ],
+        [
+            "3",
+            "ZIP drive",
+            "150",
+            "4"
+        ],
+        [
+            "4",
+            "Floppy disk",
+            "5",
+            "6"
+        ],
+        [
+            "5",
+            "Monitor",
+            "240",
+            "1"
+        ],
+        [
+            "6",
+            "DVD drive",
+            "180",
+            "2"
+        ],
+        [
+            "7",
+            "CD drive",
+            "90",
+            "2"
+        ],
+        [
+            "8",
+            "Printer",
+            "270",
+            "3"
+        ],
+        [
+            "9",
+            "Toner cartridge",
+            "66",
+            "3"
+        ],
+        [
+            "10",
+            "DVD burner",
+            "180",
+            "2"
+        ],
+        [
+            "11",
+            "DVD drive",
+            "150",
+            "3"
+        ]
+    ]
+}

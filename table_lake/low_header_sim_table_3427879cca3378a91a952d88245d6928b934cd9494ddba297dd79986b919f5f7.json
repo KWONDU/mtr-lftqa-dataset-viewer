@@ -1,0 +1,71 @@
+{
+    "id": "3427879cca3378a91a952d88245d6928b934cd9494ddba297dd79986b919f5f7",
+    "metadata": "customer_deliveries | regular_order_products",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "regular_order_id",
+        "product_id"
+    ],
+    "cell": [
+        [
+            "5",
+            "3"
+        ],
+        [
+            "2",
+            "3"
+        ],
+        [
+            "10",
+            "1"
+        ],
+        [
+            "8",
+            "5"
+        ],
+        [
+            "12",
+            "2"
+        ],
+        [
+            "1",
+            "4"
+        ],
+        [
+            "6",
+            "3"
+        ],
+        [
+            "3",
+            "6"
+        ],
+        [
+            "3",
+            "1"
+        ],
+        [
+            "9",
+            "6"
+        ],
+        [
+            "5",
+            "5"
+        ],
+        [
+            "1",
+            "1"
+        ],
+        [
+            "7",
+            "4"
+        ],
+        [
+            "6",
+            "4"
+        ],
+        [
+            "13",
+            "2"
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": "7e58e97c06155f07180180482c8fc13402e88c004447db4f7f8fcd7e20f42bfe",
+    "metadata": "tracking_grants_for_research | organisation_types",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "organisation_type",
+        "organisation_type_description"
+    ],
+    "cell": [
+        [
+            "RES",
+            "Research"
+        ],
+        [
+            "SPON",
+            "Sponsor"
+        ]
+    ]
+}

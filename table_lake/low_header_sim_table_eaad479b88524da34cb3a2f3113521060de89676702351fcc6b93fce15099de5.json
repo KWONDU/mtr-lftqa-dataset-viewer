@@ -1,0 +1,19 @@
+{
+    "id": "eaad479b88524da34cb3a2f3113521060de89676702351fcc6b93fce15099de5",
+    "metadata": "local_govt_mdm | parking_fines",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "council_tax_id",
+        "cmi_cross_ref_id"
+    ],
+    "cell": [
+        [
+            "9",
+            "4"
+        ],
+        [
+            "10",
+            "81"
+        ]
+    ]
+}

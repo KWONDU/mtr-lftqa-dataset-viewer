@@ -1,0 +1,31 @@
+{
+    "id": "0ff611a8dd8fda10a4faf2e139f407ceb347e19406c8d682845e529f6217173c",
+    "metadata": "company_1 | dept_locations",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Dnumber",
+        "Dlocation"
+    ],
+    "cell": [
+        [
+            "1",
+            "Houston"
+        ],
+        [
+            "4",
+            "Stafford"
+        ],
+        [
+            "5",
+            "Bellaire"
+        ],
+        [
+            "5",
+            "Sugarland"
+        ],
+        [
+            "5",
+            "Houston"
+        ]
+    ]
+}

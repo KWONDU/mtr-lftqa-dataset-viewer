@@ -1,0 +1,52 @@
+{
+    "id": "749f14d7225867c2349e2e4e7b462dc6a6cad18a6fe182245f34b49558e36ab9",
+    "metadata": "icfp_1 | inst",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "instID",
+        "name",
+        "country"
+    ],
+    "cell": [
+        [
+            "1000",
+            "University of Oxford",
+            "UK"
+        ],
+        [
+            "1010",
+            "Northeastern University",
+            "USA"
+        ],
+        [
+            "1020",
+            "Indiana University",
+            "USA"
+        ],
+        [
+            "1030",
+            "Google",
+            "USA"
+        ],
+        [
+            "1040",
+            "Tohoku University",
+            "Japan"
+        ],
+        [
+            "1050",
+            "University of Pennsylvania",
+            "USA"
+        ],
+        [
+            "1060",
+            "Portland State University",
+            "Japan"
+        ],
+        [
+            "1070",
+            "INRIA",
+            "France"
+        ]
+    ]
+}

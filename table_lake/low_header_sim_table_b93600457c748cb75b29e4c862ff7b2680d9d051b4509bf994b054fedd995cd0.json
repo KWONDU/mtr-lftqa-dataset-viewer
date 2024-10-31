@@ -1,0 +1,49 @@
+{
+    "id": "b93600457c748cb75b29e4c862ff7b2680d9d051b4509bf994b054fedd995cd0",
+    "metadata": "college_1 | course",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "CRS_CODE",
+        "DEPT_CODE",
+        "CRS_DESCRIPTION",
+        "CRS_CREDIT"
+    ],
+    "cell": [
+        [
+            "ACCT-211",
+            "ACCT",
+            "Accounting I",
+            "3.0"
+        ],
+        [
+            "ACCT-212",
+            "ACCT",
+            "Accounting II",
+            "3.0"
+        ],
+        [
+            "CIS-220",
+            "CIS",
+            "Intro. to Microcomputing",
+            "3.0"
+        ],
+        [
+            "CIS-420",
+            "CIS",
+            "Database Design and Implementation",
+            "4.0"
+        ],
+        [
+            "QM-261",
+            "CIS",
+            "Intro. to Statistics",
+            "3.0"
+        ],
+        [
+            "QM-362",
+            "CIS",
+            "Statistical Applications",
+            "4.0"
+        ]
+    ]
+}

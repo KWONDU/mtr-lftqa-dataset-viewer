@@ -1,0 +1,73 @@
+{
+    "id": "b52682d1be3a861c7a762c4e966fdd3ec2ccd440b984132aff9659504cc61b20",
+    "metadata": "coffee_shop | happy_hour",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "HH_ID",
+        "Shop_ID",
+        "Month",
+        "Num_of_shaff_in_charge"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "May",
+            "10"
+        ],
+        [
+            "2",
+            "1",
+            "April",
+            "12"
+        ],
+        [
+            "3",
+            "10",
+            "June",
+            "15"
+        ],
+        [
+            "4",
+            "5",
+            "July",
+            "5"
+        ],
+        [
+            "5",
+            "1",
+            "May",
+            "10"
+        ],
+        [
+            "6",
+            "1",
+            "April",
+            "12"
+        ],
+        [
+            "7",
+            "2",
+            "June",
+            "5"
+        ],
+        [
+            "8",
+            "3",
+            "July",
+            "15"
+        ],
+        [
+            "9",
+            "3",
+            "May",
+            "3"
+        ],
+        [
+            "10",
+            "3",
+            "April",
+            "4"
+        ]
+    ]
+}

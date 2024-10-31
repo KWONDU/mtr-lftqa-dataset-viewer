@@ -1,0 +1,37 @@
+{
+    "id": "0ff4293184196335a5048281a796a1692bac3357cc9deba52858876e5bdedb24",
+    "metadata": "cre_doc_control_systems | circulation_history",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "document_id",
+        "draft_number",
+        "copy_number",
+        "employee_id"
+    ],
+    "cell": [
+        [
+            "20",
+            "17",
+            "15",
+            "8"
+        ],
+        [
+            "1",
+            "2",
+            "5",
+            "1"
+        ],
+        [
+            "2",
+            "1",
+            "4",
+            "2"
+        ],
+        [
+            "10",
+            "20",
+            "10",
+            "2"
+        ]
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "e28a63080c7ccf102fcc6861826b7cc75c239987d4b7ae242a4d29e045017ad4",
+    "metadata": "debate | debate_people",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Debate_ID",
+        "Affirmative",
+        "Negative",
+        "If_Affirmative_Win"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "10",
+            "F"
+        ],
+        [
+            "5",
+            "2",
+            "8",
+            "F"
+        ],
+        [
+            "3",
+            "4",
+            "7",
+            "T"
+        ],
+        [
+            "6",
+            "5",
+            "6",
+            "T"
+        ],
+        [
+            "4",
+            "5",
+            "8",
+            "F"
+        ]
+    ]
+}

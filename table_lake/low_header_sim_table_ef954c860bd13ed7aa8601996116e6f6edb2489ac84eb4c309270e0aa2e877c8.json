@@ -1,0 +1,103 @@
+{
+    "id": "ef954c860bd13ed7aa8601996116e6f6edb2489ac84eb4c309270e0aa2e877c8",
+    "metadata": "student_transcripts_tracking | semesters",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "semester_id",
+        "semester_name",
+        "semester_description",
+        "other_details"
+    ],
+    "cell": [
+        [
+            "1",
+            "spring 2010",
+            "x",
+            "None"
+        ],
+        [
+            "2",
+            "summer 2010",
+            "g",
+            "None"
+        ],
+        [
+            "3",
+            "fall 2010",
+            "w",
+            "None"
+        ],
+        [
+            "4",
+            "winter 2010",
+            "c",
+            "None"
+        ],
+        [
+            "5",
+            "spring 2018",
+            "c",
+            "None"
+        ],
+        [
+            "6",
+            "spring 2012",
+            "l",
+            "None"
+        ],
+        [
+            "7",
+            "spring 2013",
+            "y",
+            "None"
+        ],
+        [
+            "8",
+            "spring 2014",
+            "x",
+            "None"
+        ],
+        [
+            "9",
+            "spring 2015",
+            "x",
+            "None"
+        ],
+        [
+            "10",
+            "spring 2016",
+            "f",
+            "None"
+        ],
+        [
+            "11",
+            "spring 2017",
+            "g",
+            "None"
+        ],
+        [
+            "12",
+            "spring 2018",
+            "m",
+            "None"
+        ],
+        [
+            "13",
+            "fall 2018",
+            "q",
+            "None"
+        ],
+        [
+            "14",
+            "winter 2018",
+            "t",
+            "None"
+        ],
+        [
+            "15",
+            "spring 2019",
+            "o",
+            "None"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": "1e780cf2caff0ddc9f501c13a4962931e75459f26f2a4c75808f8ed8bd8a9551",
+    "metadata": "city_record | match",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Match_ID",
+        "Date",
+        "Venue",
+        "Score",
+        "Result",
+        "Competition"
+    ],
+    "cell": [
+        [
+            "1",
+            "18 February 1992",
+            "Estadio Cuscatl\u00c3\u00a1n , San Salvador , El Salvador",
+            "1-0",
+            "2-0",
+            "Friendly match"
+        ],
+        [
+            "2",
+            "19 July 1992",
+            "Estadio Rigoberto L\u00c3\u00b3pez , Managua , Nicaragua",
+            "3-0",
+            "5-0",
+            "1994 FIFA World Cup qualification"
+        ],
+        [
+            "3",
+            "23 July 1992",
+            "Estadio Cuscatl\u00c3\u00a1n , San Salvador , El Salvador",
+            "1-0",
+            "5-1",
+            "1994 FIFA World Cup qualification"
+        ],
+        [
+            "4",
+            "23 July 1992",
+            "Estadio Cuscatl\u00c3\u00a1n , San Salvador , El Salvador",
+            "3-0",
+            "5-1",
+            "1994 FIFA World Cup qualification"
+        ],
+        [
+            "5",
+            "4 April 1993",
+            "Estadio Cuscatl\u00c3\u00a1n , San Salvador , El Salvador",
+            "1\u00e2\u0080\u00930",
+            "2\u00e2\u0080\u00931",
+            "1994 FIFA World Cup qualification"
+        ],
+        [
+            "6",
+            "23 July 2000",
+            "Estadio Cuscatl\u00c3\u00a1n , San Salvador , El Salvador",
+            "2\u00e2\u0080\u00931",
+            "7\u00e2\u0080\u00931",
+            "2002 FIFA World Cup qualification"
+        ]
+    ]
+}

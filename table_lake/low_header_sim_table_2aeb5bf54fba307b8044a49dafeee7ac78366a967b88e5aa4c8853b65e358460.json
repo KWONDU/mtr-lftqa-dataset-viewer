@@ -1,0 +1,119 @@
+{
+    "id": "2aeb5bf54fba307b8044a49dafeee7ac78366a967b88e5aa4c8853b65e358460",
+    "metadata": "customers_and_addresses | customer_orders",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "order_id",
+        "customer_id",
+        "order_status",
+        "order_date",
+        "order_details"
+    ],
+    "cell": [
+        [
+            "1",
+            "15",
+            "Cancelled",
+            "2018-03-21 11:20:46",
+            "None"
+        ],
+        [
+            "2",
+            "3",
+            "Cancelled",
+            "2018-03-05 06:35:33",
+            "None"
+        ],
+        [
+            "3",
+            "5",
+            "Delivered",
+            "2018-03-04 07:16:22",
+            "Second time"
+        ],
+        [
+            "4",
+            "12",
+            "Cancelled",
+            "2018-02-28 15:46:06",
+            "None"
+        ],
+        [
+            "5",
+            "12",
+            "Delivered",
+            "2018-03-08 15:30:24",
+            "None"
+        ],
+        [
+            "6",
+            "5",
+            "Cancelled",
+            "2018-03-10 06:12:51",
+            "None"
+        ],
+        [
+            "7",
+            "10",
+            "Cancelled",
+            "2018-03-23 04:39:50",
+            "Second time"
+        ],
+        [
+            "8",
+            "3",
+            "Cancelled",
+            "2018-03-17 02:51:37",
+            "None"
+        ],
+        [
+            "9",
+            "8",
+            "Cancelled",
+            "2018-03-23 06:25:41",
+            "None"
+        ],
+        [
+            "10",
+            "12",
+            "Cancelled",
+            "2018-03-17 07:13:53",
+            "None"
+        ],
+        [
+            "11",
+            "8",
+            "Cancelled",
+            "2018-03-19 18:05:50",
+            "Second time"
+        ],
+        [
+            "12",
+            "10",
+            "Delivered",
+            "2018-03-16 03:16:57",
+            "Second time"
+        ],
+        [
+            "13",
+            "4",
+            "Delivered",
+            "2018-03-22 14:57:30",
+            "None"
+        ],
+        [
+            "14",
+            "11",
+            "Cancelled",
+            "2018-02-24 13:18:49",
+            "Second time"
+        ],
+        [
+            "15",
+            "10",
+            "Delivered",
+            "2018-03-06 12:31:35",
+            "None"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "bfe367096b0e3c3b5df52717dc22dabb4759031d67f48795d9bded7d36e19a57",
+    "metadata": "club_1 | member_of_club",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "StuID",
+        "ClubID",
+        "Position"
+    ],
+    "cell": [
+        [
+            "1001",
+            "1",
+            "President"
+        ],
+        [
+            "1007",
+            "4",
+            "Vice-President"
+        ],
+        [
+            "1008",
+            "2",
+            "CTO"
+        ],
+        [
+            "1010",
+            "1",
+            "Teaching Coordinator"
+        ]
+    ]
+}

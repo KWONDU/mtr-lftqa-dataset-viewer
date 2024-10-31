@@ -1,0 +1,84 @@
+{
+    "id": "7459855210504108179045e9995b3eb09c110c841ff6d6c71f04130270c5fde3",
+    "metadata": "program_share | channel",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Channel_ID",
+        "Name",
+        "Owner",
+        "Share_in_percent",
+        "Rating_in_percent"
+    ],
+    "cell": [
+        [
+            "1",
+            "CCTV-1",
+            "CCTV",
+            "4.9",
+            "0.54"
+        ],
+        [
+            "2",
+            "Hunan Satellite TV",
+            "HBS",
+            "4.81",
+            "0.53"
+        ],
+        [
+            "3",
+            "CCTV-8",
+            "CCTV",
+            "3.76",
+            "0.41"
+        ],
+        [
+            "4",
+            "CCTV-13",
+            "CCTV",
+            "2.91",
+            "0.32"
+        ],
+        [
+            "5",
+            "CCTV-3",
+            "CCTV",
+            "2.86",
+            "0.31"
+        ],
+        [
+            "6",
+            "CCTV-6",
+            "CCTV",
+            "2.73",
+            "0.3"
+        ],
+        [
+            "7",
+            "CCTV-14",
+            "CCTV",
+            "2.6",
+            "0.29"
+        ],
+        [
+            "8",
+            "CCTV-4",
+            "CCTV",
+            "2.33",
+            "0.26"
+        ],
+        [
+            "9",
+            "Anhui Satellite TV",
+            "Anhui Television",
+            "1.78",
+            "0.2"
+        ],
+        [
+            "10",
+            "Shandong Satellite TV",
+            "Shandong Television",
+            "1.74",
+            "0.19"
+        ]
+    ]
+}

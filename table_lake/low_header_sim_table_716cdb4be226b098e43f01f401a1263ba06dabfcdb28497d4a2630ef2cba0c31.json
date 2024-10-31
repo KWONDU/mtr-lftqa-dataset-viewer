@@ -1,0 +1,19 @@
+{
+    "id": "716cdb4be226b098e43f01f401a1263ba06dabfcdb28497d4a2630ef2cba0c31",
+    "metadata": "cre_docs_and_epenses | statements",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Statement_ID",
+        "Statement_Details"
+    ],
+    "cell": [
+        [
+            "57",
+            "Open Project"
+        ],
+        [
+            "192",
+            "Private Project"
+        ]
+    ]
+}

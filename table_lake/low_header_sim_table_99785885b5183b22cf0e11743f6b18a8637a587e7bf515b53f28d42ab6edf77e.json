@@ -1,0 +1,55 @@
+{
+    "id": "99785885b5183b22cf0e11743f6b18a8637a587e7bf515b53f28d42ab6edf77e",
+    "metadata": "employee_hire_evaluation | hiring",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Shop_ID",
+        "Employee_ID",
+        "Start_from",
+        "Is_full_time"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "2009",
+            "T"
+        ],
+        [
+            "1",
+            "2",
+            "2003",
+            "T"
+        ],
+        [
+            "8",
+            "3",
+            "2011",
+            "F"
+        ],
+        [
+            "4",
+            "4",
+            "2012",
+            "T"
+        ],
+        [
+            "5",
+            "5",
+            "2013",
+            "T"
+        ],
+        [
+            "2",
+            "6",
+            "2010",
+            "F"
+        ],
+        [
+            "6",
+            "7",
+            "2008",
+            "T"
+        ]
+    ]
+}

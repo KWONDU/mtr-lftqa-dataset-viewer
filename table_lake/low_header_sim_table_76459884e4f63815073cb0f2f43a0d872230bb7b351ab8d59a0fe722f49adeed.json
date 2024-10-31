@@ -1,0 +1,52 @@
+{
+    "id": "76459884e4f63815073cb0f2f43a0d872230bb7b351ab8d59a0fe722f49adeed",
+    "metadata": "shop_membership | membership_register_branch",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Member_ID",
+        "Branch_ID",
+        "Register_Year"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "2016"
+        ],
+        [
+            "2",
+            "4",
+            "2016"
+        ],
+        [
+            "3",
+            "1",
+            "2017"
+        ],
+        [
+            "4",
+            "1",
+            "2016"
+        ],
+        [
+            "5",
+            "5",
+            "2016"
+        ],
+        [
+            "6",
+            "6",
+            "2017"
+        ],
+        [
+            "7",
+            "2",
+            "2016"
+        ],
+        [
+            "8",
+            "8",
+            "2016"
+        ]
+    ]
+}

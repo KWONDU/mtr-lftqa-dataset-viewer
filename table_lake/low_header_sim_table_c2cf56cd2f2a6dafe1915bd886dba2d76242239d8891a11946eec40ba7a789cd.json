@@ -1,0 +1,59 @@
+{
+    "id": "c2cf56cd2f2a6dafe1915bd886dba2d76242239d8891a11946eec40ba7a789cd",
+    "metadata": "scientist_1 | assignedto",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Scientist",
+        "Project"
+    ],
+    "cell": [
+        [
+            "123234877",
+            "AeH1"
+        ],
+        [
+            "152934485",
+            "AeH3"
+        ],
+        [
+            "222364883",
+            "Ast3"
+        ],
+        [
+            "326587417",
+            "Ast3"
+        ],
+        [
+            "332154719",
+            "Bte1"
+        ],
+        [
+            "546523478",
+            "Che1"
+        ],
+        [
+            "631231482",
+            "Ast3"
+        ],
+        [
+            "654873219",
+            "Che1"
+        ],
+        [
+            "745685214",
+            "AeH3"
+        ],
+        [
+            "845657245",
+            "Ast1"
+        ],
+        [
+            "845657246",
+            "Ast2"
+        ],
+        [
+            "332569843",
+            "AeH4"
+        ]
+    ]
+}

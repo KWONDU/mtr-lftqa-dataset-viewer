@@ -1,0 +1,43 @@
+{
+    "id": "903fffee33b0f40f96b0f97f8a2121c00b9a80c9567c46b6c1011b33b0a86528",
+    "metadata": "decoration_competition | college",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "College_ID",
+        "Name",
+        "Leader_Name",
+        "College_Location"
+    ],
+    "cell": [
+        [
+            "1",
+            "Saskatchewan School",
+            "Ousame Tounkara",
+            "Ottawa"
+        ],
+        [
+            "2",
+            "B.C. School",
+            "Ryan Thelwell",
+            "Minnesota"
+        ],
+        [
+            "3",
+            "Calgary School",
+            "Andre Arlain",
+            "St. Francis Xavier"
+        ],
+        [
+            "4",
+            "Edmonton School",
+            "Samir Chahine",
+            "McGill"
+        ],
+        [
+            "5",
+            "Toronto School",
+            "Roger Dunbrack",
+            "Western Ontario"
+        ]
+    ]
+}

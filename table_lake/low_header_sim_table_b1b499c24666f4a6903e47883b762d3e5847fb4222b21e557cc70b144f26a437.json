@@ -1,0 +1,49 @@
+{
+    "id": "b1b499c24666f4a6903e47883b762d3e5847fb4222b21e557cc70b144f26a437",
+    "metadata": "music_1 | artist",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "artist_name",
+        "country",
+        "gender",
+        "preferred_genre"
+    ],
+    "cell": [
+        [
+            "Shrikanta",
+            "India",
+            "Male",
+            "tagore"
+        ],
+        [
+            "Prity",
+            "Bangladesh",
+            "Female",
+            "nazrul"
+        ],
+        [
+            "Farida",
+            "Bangladesh",
+            "Female",
+            "folk"
+        ],
+        [
+            "Topu",
+            "India",
+            "Female",
+            "modern"
+        ],
+        [
+            "Enrique",
+            "USA",
+            "Male",
+            "blues"
+        ],
+        [
+            "Michel",
+            "UK",
+            "Male",
+            "pop"
+        ]
+    ]
+}

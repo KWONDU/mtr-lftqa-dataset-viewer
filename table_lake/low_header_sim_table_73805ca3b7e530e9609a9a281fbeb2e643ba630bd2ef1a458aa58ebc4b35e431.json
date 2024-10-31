@@ -1,0 +1,43 @@
+{
+    "id": "73805ca3b7e530e9609a9a281fbeb2e643ba630bd2ef1a458aa58ebc4b35e431",
+    "metadata": "products_gen_characteristics | ref_colors",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "color_code",
+        "color_description"
+    ],
+    "cell": [
+        [
+            "9",
+            "red"
+        ],
+        [
+            "5",
+            "green"
+        ],
+        [
+            "1",
+            "yellow"
+        ],
+        [
+            "4",
+            "blue"
+        ],
+        [
+            "7",
+            "black"
+        ],
+        [
+            "2",
+            "white"
+        ],
+        [
+            "8",
+            "purple"
+        ],
+        [
+            "3",
+            "gray"
+        ]
+    ]
+}

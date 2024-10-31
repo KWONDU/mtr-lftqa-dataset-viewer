@@ -1,0 +1,47 @@
+{
+    "id": "7979ff879011d1e9bbacb236ec503b3a52ec5cbcb77fd3e318429a39554139a1",
+    "metadata": "riding_club | player_coach",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Player_ID",
+        "Coach_ID",
+        "Starting_year"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "2010"
+        ],
+        [
+            "2",
+            "1",
+            "2011"
+        ],
+        [
+            "3",
+            "1",
+            "2012"
+        ],
+        [
+            "4",
+            "2",
+            "2013"
+        ],
+        [
+            "6",
+            "3",
+            "2012"
+        ],
+        [
+            "10",
+            "3",
+            "2011"
+        ],
+        [
+            "14",
+            "5",
+            "2010"
+        ]
+    ]
+}

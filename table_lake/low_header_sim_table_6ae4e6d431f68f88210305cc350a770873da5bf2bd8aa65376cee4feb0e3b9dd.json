@@ -1,0 +1,31 @@
+{
+    "id": "6ae4e6d431f68f88210305cc350a770873da5bf2bd8aa65376cee4feb0e3b9dd",
+    "metadata": "cre_theme_park | ref_hotel_star_ratings",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "star_rating_code",
+        "star_rating_description"
+    ],
+    "cell": [
+        [
+            "1",
+            "star"
+        ],
+        [
+            "2",
+            "star"
+        ],
+        [
+            "3",
+            "star"
+        ],
+        [
+            "4",
+            "star"
+        ],
+        [
+            "5",
+            "star"
+        ]
+    ]
+}

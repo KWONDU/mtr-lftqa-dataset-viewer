@@ -1,0 +1,27 @@
+{
+    "id": "8b406b86794be59a9310d3e09b41b5c21ee78863c171bd708d0e12ee781e45e7",
+    "metadata": "document_management | functional_areas",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "functional_area_code",
+        "parent_functional_area_code",
+        "functional_area_description"
+    ],
+    "cell": [
+        [
+            "8",
+            "8",
+            "Signature"
+        ],
+        [
+            "1",
+            "8",
+            "Acknowledgement"
+        ],
+        [
+            "9",
+            "8",
+            "Keep blank"
+        ]
+    ]
+}

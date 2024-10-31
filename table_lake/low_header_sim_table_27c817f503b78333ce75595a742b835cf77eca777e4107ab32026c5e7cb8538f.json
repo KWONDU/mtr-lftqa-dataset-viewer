@@ -1,0 +1,59 @@
+{
+    "id": "27c817f503b78333ce75595a742b835cf77eca777e4107ab32026c5e7cb8538f",
+    "metadata": "dorm_1 | dorm_amenity",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "amenid",
+        "amenity_name"
+    ],
+    "cell": [
+        [
+            "900",
+            "TV Lounge"
+        ],
+        [
+            "901",
+            "Study Room"
+        ],
+        [
+            "902",
+            "Pub in Basement"
+        ],
+        [
+            "903",
+            "Carpeted Rooms"
+        ],
+        [
+            "904",
+            "4 Walls"
+        ],
+        [
+            "930",
+            "Roof"
+        ],
+        [
+            "931",
+            "Ethernet Ports"
+        ],
+        [
+            "932",
+            "Air Conditioning"
+        ],
+        [
+            "922",
+            "Heat"
+        ],
+        [
+            "950",
+            "Working Fireplaces"
+        ],
+        [
+            "955",
+            "Kitchen in Every Room"
+        ],
+        [
+            "909",
+            "Allows Pets"
+        ]
+    ]
+}

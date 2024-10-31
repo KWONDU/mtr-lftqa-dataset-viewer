@@ -1,0 +1,47 @@
+{
+    "id": "dc374bf54dc0246ed247709a52112b17eae8876406a74980d99f35a8869b0203",
+    "metadata": "loan_1 | customer",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "cust_ID",
+        "cust_name",
+        "acc_type",
+        "acc_bal",
+        "no_of_loans",
+        "credit_score",
+        "branch_ID",
+        "state"
+    ],
+    "cell": [
+        [
+            "1",
+            "Mary",
+            "saving",
+            "2000",
+            "2",
+            "30",
+            "2",
+            "Utah"
+        ],
+        [
+            "2",
+            "Jack",
+            "checking",
+            "1000",
+            "1",
+            "20",
+            "1",
+            "Texas"
+        ],
+        [
+            "3",
+            "Owen",
+            "saving",
+            "800000",
+            "0",
+            "210",
+            "3",
+            "New York"
+        ]
+    ]
+}

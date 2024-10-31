@@ -1,0 +1,27 @@
+{
+    "id": "89188425358a285f821eb669b06a528e24c1644f841f5315a6e0038cb913b482",
+    "metadata": "assets_maintenance | skills",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "skill_id",
+        "skill_code",
+        "skill_description"
+    ],
+    "cell": [
+        [
+            "1",
+            "ELEC",
+            "Electrical"
+        ],
+        [
+            "2",
+            "MECH",
+            "Mechanical"
+        ],
+        [
+            "3",
+            "TV",
+            "TV, Video"
+        ]
+    ]
+}

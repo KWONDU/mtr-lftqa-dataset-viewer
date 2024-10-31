@@ -1,0 +1,27 @@
+{
+    "id": "254253bd6f839b3f8461847c39442ebd7b750d9e35548c9b40694f6af395f70d",
+    "metadata": "local_govt_in_alabama | services",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Service_ID",
+        "Service_Type_Code"
+    ],
+    "cell": [
+        [
+            "2",
+            "Marriage"
+        ],
+        [
+            "5",
+            "Death Proof"
+        ],
+        [
+            "6",
+            "Birth Proof"
+        ],
+        [
+            "8",
+            "Property Change"
+        ]
+    ]
+}

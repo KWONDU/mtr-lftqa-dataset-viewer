@@ -1,0 +1,47 @@
+{
+    "id": "affce7780313e1e20c0c0f744dc3028c096cd37184f777828b31ce504dd43f0a",
+    "metadata": "local_govt_mdm | customer_master_index",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "master_customer_id",
+        "cmi_details"
+    ],
+    "cell": [
+        [
+            "1",
+            "Schmitt-Lang"
+        ],
+        [
+            "2",
+            "Volkman, Mills and Ferry"
+        ],
+        [
+            "3",
+            "Gusikowski PLC"
+        ],
+        [
+            "4",
+            "Schmidt, Kertzmann and Lubowitz"
+        ],
+        [
+            "5",
+            "Gottlieb, Becker and Wyman"
+        ],
+        [
+            "6",
+            "Mayer-Hagenes"
+        ],
+        [
+            "7",
+            "Streich-Morissette"
+        ],
+        [
+            "8",
+            "Quigley-Paucek"
+        ],
+        [
+            "9",
+            "Reynolds-McClure"
+        ]
+    ]
+}

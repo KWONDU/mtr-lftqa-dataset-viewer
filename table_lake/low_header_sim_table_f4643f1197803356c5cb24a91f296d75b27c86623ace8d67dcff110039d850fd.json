@@ -1,0 +1,62 @@
+{
+    "id": "f4643f1197803356c5cb24a91f296d75b27c86623ace8d67dcff110039d850fd",
+    "metadata": "course_teach | course",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Course_ID",
+        "Staring_Date",
+        "Course"
+    ],
+    "cell": [
+        [
+            "1",
+            "5 May",
+            "Language Arts"
+        ],
+        [
+            "2",
+            "6 May",
+            "Math"
+        ],
+        [
+            "3",
+            "7 May",
+            "Science"
+        ],
+        [
+            "4",
+            "9 May",
+            "History"
+        ],
+        [
+            "5",
+            "10 May",
+            "Bible"
+        ],
+        [
+            "6",
+            "11 May",
+            "Geography"
+        ],
+        [
+            "7",
+            "13 May",
+            "Sports"
+        ],
+        [
+            "8",
+            "14 May",
+            "French"
+        ],
+        [
+            "9",
+            "15 May",
+            "Health"
+        ],
+        [
+            "10",
+            "17 May",
+            "Music"
+        ]
+    ]
+}

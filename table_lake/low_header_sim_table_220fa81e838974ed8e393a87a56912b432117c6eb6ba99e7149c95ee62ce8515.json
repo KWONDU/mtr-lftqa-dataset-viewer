@@ -1,0 +1,71 @@
+{
+    "id": "220fa81e838974ed8e393a87a56912b432117c6eb6ba99e7149c95ee62ce8515",
+    "metadata": "insurance_and_eclaims | staff",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Staff_ID",
+        "Staff_Details"
+    ],
+    "cell": [
+        [
+            "406",
+            "Clifton"
+        ],
+        [
+            "427",
+            "Cathryn"
+        ],
+        [
+            "510",
+            "Kaci"
+        ],
+        [
+            "589",
+            "Margaretta"
+        ],
+        [
+            "634",
+            "Maryse"
+        ],
+        [
+            "673",
+            "Roman"
+        ],
+        [
+            "687",
+            "Eladio"
+        ],
+        [
+            "718",
+            "Vernie"
+        ],
+        [
+            "735",
+            "Evans"
+        ],
+        [
+            "771",
+            "Bo"
+        ],
+        [
+            "803",
+            "Zachery"
+        ],
+        [
+            "822",
+            "Julius"
+        ],
+        [
+            "833",
+            "Allen"
+        ],
+        [
+            "986",
+            "Alexander"
+        ],
+        [
+            "987",
+            "Gideon"
+        ]
+    ]
+}

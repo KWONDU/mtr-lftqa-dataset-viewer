@@ -1,0 +1,55 @@
+{
+    "id": "ce9210aa98a7ca69c62d78990e60a4b8ca20adfb09497256d8f5e1ca565ac1b6",
+    "metadata": "poker_player | poker_player",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Poker_Player_ID",
+        "People_ID",
+        "Final_Table_Made",
+        "Best_Finish",
+        "Money_Rank",
+        "Earnings"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "42.0",
+            "1.0",
+            "68.0",
+            "476090.0"
+        ],
+        [
+            "2",
+            "2",
+            "10.0",
+            "2.0",
+            "141.0",
+            "189233.0"
+        ],
+        [
+            "3",
+            "5",
+            "21.0",
+            "1.0",
+            "166.0",
+            "104871.0"
+        ],
+        [
+            "4",
+            "6",
+            "19.0",
+            "2.0",
+            "58.0",
+            "596462.0"
+        ],
+        [
+            "5",
+            "7",
+            "26.0",
+            "3.0",
+            "154.0",
+            "142800.0"
+        ]
+    ]
+}

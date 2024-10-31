@@ -1,0 +1,49 @@
+{
+    "id": "9abf562738586b9ae8d6db3f7bbb56c4b547ad601b4020be97ae84954e4af7a8",
+    "metadata": "decoration_competition | round",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Round_ID",
+        "Member_ID",
+        "Decoration_Theme",
+        "Rank_in_Round"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "Walk on the Moon",
+            "1"
+        ],
+        [
+            "1",
+            "2",
+            "Soft Dream",
+            "2"
+        ],
+        [
+            "1",
+            "10",
+            "Dark Nights",
+            "4"
+        ],
+        [
+            "2",
+            "4",
+            "Sweetie",
+            "3"
+        ],
+        [
+            "2",
+            "6",
+            "Summer",
+            "2"
+        ],
+        [
+            "2",
+            "9",
+            "Happiness",
+            "1"
+        ]
+    ]
+}
