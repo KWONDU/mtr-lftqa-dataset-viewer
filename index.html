@@ -23,7 +23,8 @@
         
         <div class="pagination mt-3">
             <button onclick="showPrev()" class="btn btn-secondary">Previous</button>
-            <span id="data-index" class="mx-3"></span>
+            <input id="data-index-input" type="number" class="mx-3" min="1" style="width: 60px;" oninput="updateIndexFromInput()" />
+            <span id="total-index"></span>
             <button onclick="showNext()" class="btn btn-secondary">Next</button>
         </div>
 

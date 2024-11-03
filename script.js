@@ -120,6 +120,21 @@ function showPrev() {
 }
 
 function updateIndexDisplay() {
-    const indexDisplay = document.getElementById("data-index");
-    indexDisplay.textContent = `${currentIndex + 1} / ${dataset.length}`;
+    const indexInput = document.getElementById("data-index-input");
+    indexInput.value = currentIndex + 1;
+
+    const totalIndex = document.getElementById("total-index");
+    totalIndex.textContent = ` / ${dataset.length}`;
+}
+
+function updateIndexFromInput() {
+    const indexInput = document.getElementById("data-index-input");
+    let newIndex = parseInt(indexInput.value, 10) - 1;
+
+    if (isNaN(newIndex) || newIndex < 0 || newIndex >= dataset.length) {
+        newIndex = currentIndex;
+    }
+
+    currentIndex = newIndex;
+    renderData(currentIndex);
 }
