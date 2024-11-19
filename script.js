@@ -47,11 +47,6 @@ async function renderData(index) {
                 const tableDiv = document.createElement("div");
                 tableDiv.classList.add("table-responsive", "mb-4");
 
-                const sourceInfo = document.createElement("p");
-                sourceInfo.textContent = `Source dataset: ${source}`;
-                sourceInfo.classList.add("text-muted", "mb-2");
-                tableDiv.appendChild(sourceInfo);
-
                 const title = document.createElement("h4");
                 title.textContent = `Table ${idx + 1}: ${table['metadata']}`;
                 tableDiv.appendChild(title);
@@ -93,6 +88,8 @@ async function renderData(index) {
     const qaSection = document.createElement("div");
     qaSection.classList.add("mb-3");
     qaSection.innerHTML = `
+        <h3>Source dataset</h3>
+        <p>${source}</p>
         <h3>Question</h3>
         <p>${question}</p>
         <h3>Answer</h3>
