@@ -1,0 +1,44 @@
+{
+    "id": "585091f3587bb2201a31db42344d5a990b1a3995a920dc22b6708d9bf2f2f3d6",
+    "metadata": "student_assessment | candidates",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "candidate_id",
+        "candidate_details"
+    ],
+    "cell": [
+        [
+            "111",
+            "Jane"
+        ],
+        [
+            "121",
+            "Robert"
+        ],
+        [
+            "131",
+            "Alex"
+        ],
+        [
+            "141",
+            "Tao"
+        ],
+        [
+            "151",
+            "Jack"
+        ],
+        [
+            "161",
+            "Leo"
+        ],
+        [
+            "171",
+            "Robin"
+        ],
+        [
+            "181",
+            "Cindy"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

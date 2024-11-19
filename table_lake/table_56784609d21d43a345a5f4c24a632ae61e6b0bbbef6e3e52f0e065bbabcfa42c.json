@@ -1,0 +1,23 @@
+{
+    "id": "56784609d21d43a345a5f4c24a632ae61e6b0bbbef6e3e52f0e065bbabcfa42c",
+    "metadata": "restaurant_1 | restaurant_type",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "ResTypeID",
+        "ResTypeName",
+        "ResTypeDescription"
+    ],
+    "cell": [
+        [
+            "1",
+            "Sandwich",
+            "Simplest there is."
+        ],
+        [
+            "2",
+            "Stir-fry",
+            "Classic Chinese cooking."
+        ]
+    ],
+    "source": "spider-tableQA"
+}

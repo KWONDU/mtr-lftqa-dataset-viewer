@@ -1,0 +1,80 @@
+{
+    "id": "97e91e5fecc2e016d6f6bd5a8fe111f133fb0b06fa11f3c6ceec8d715344930b",
+    "metadata": "sports_competition | competition",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Competition_ID",
+        "Year",
+        "Competition_type",
+        "Country"
+    ],
+    "cell": [
+        [
+            "1",
+            "2006.0",
+            "Friendly",
+            "Italy"
+        ],
+        [
+            "2",
+            "2006.0",
+            "Friendly",
+            "Spain"
+        ],
+        [
+            "3",
+            "2006.0",
+            "Friendly",
+            "Australia"
+        ],
+        [
+            "4",
+            "2006.0",
+            "Friendly",
+            "Russia"
+        ],
+        [
+            "5",
+            "2007.0",
+            "Friendly",
+            "Russia"
+        ],
+        [
+            "6",
+            "2007.0",
+            "Friendly",
+            "Australia"
+        ],
+        [
+            "7",
+            "2007.0",
+            "Tournament",
+            "Russia"
+        ],
+        [
+            "8",
+            "2007.0",
+            "Tournament",
+            "Slovenia"
+        ],
+        [
+            "9",
+            "2007.0",
+            "Tournament",
+            "Slovenia"
+        ],
+        [
+            "10",
+            "2007.0",
+            "Friendly",
+            "Italy"
+        ],
+        [
+            "11",
+            "2007.0",
+            "Friendly",
+            "Ireland"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

@@ -1,0 +1,72 @@
+{
+    "id": "0252084f20659367e5715f6740313d2d48451281d6ec8b0341dc412bc617b892",
+    "metadata": "student_transcripts_tracking | transcript_contents",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "student_course_id",
+        "transcript_id"
+    ],
+    "cell": [
+        [
+            "0",
+            "2"
+        ],
+        [
+            "96",
+            "8"
+        ],
+        [
+            "76",
+            "9"
+        ],
+        [
+            "7",
+            "4"
+        ],
+        [
+            "0",
+            "15"
+        ],
+        [
+            "76",
+            "15"
+        ],
+        [
+            "0",
+            "6"
+        ],
+        [
+            "96",
+            "13"
+        ],
+        [
+            "76",
+            "12"
+        ],
+        [
+            "28982908",
+            "11"
+        ],
+        [
+            "2",
+            "8"
+        ],
+        [
+            "0",
+            "5"
+        ],
+        [
+            "8",
+            "5"
+        ],
+        [
+            "45105806",
+            "8"
+        ],
+        [
+            "70882679",
+            "6"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

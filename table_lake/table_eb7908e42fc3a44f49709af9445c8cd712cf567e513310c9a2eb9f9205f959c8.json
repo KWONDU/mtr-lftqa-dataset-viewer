@@ -1,0 +1,26 @@
+{
+    "id": "eb7908e42fc3a44f49709af9445c8cd712cf567e513310c9a2eb9f9205f959c8",
+    "metadata": "restaurant_1 | restaurant",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "ResID",
+        "ResName",
+        "Address",
+        "Rating"
+    ],
+    "cell": [
+        [
+            "1",
+            "Subway",
+            "3233 St Paul St, Baltimore, MD 21218",
+            "3"
+        ],
+        [
+            "2",
+            "Honeygrow",
+            "3212 St Paul St, Baltimore, MD 21218",
+            "4"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

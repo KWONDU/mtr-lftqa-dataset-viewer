@@ -1,0 +1,80 @@
+{
+    "id": "2463862033abfbd3c8e9540d6a6070d6a40c2fdaf62fed93c6ae4e1cb95f4bf1",
+    "metadata": "phone_1 | screen_mode",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Graphics_mode",
+        "Char_cells",
+        "Pixels",
+        "Hardware_colours",
+        "used_kb",
+        "map",
+        "Type"
+    ],
+    "cell": [
+        [
+            "0.0",
+            "80 \u00c3\u0097 32",
+            "640 \u00c3\u0097 256",
+            "2.0",
+            "20.0",
+            "3000\u00e2\u0080\u00937FFF",
+            "Graphics"
+        ],
+        [
+            "1.0",
+            "40 \u00c3\u0097 32",
+            "320 \u00c3\u0097 256",
+            "4.0",
+            "20.0",
+            "3000\u00e2\u0080\u00937FFF",
+            "Graphics"
+        ],
+        [
+            "2.0",
+            "20 \u00c3\u0097 32",
+            "160 \u00c3\u0097 256",
+            "8.0",
+            "20.0",
+            "3000\u00e2\u0080\u00937FFF",
+            "Graphics"
+        ],
+        [
+            "3.0",
+            "80 \u00c3\u0097 25",
+            "640 \u00c3\u0097 200",
+            "2.0",
+            "16.0",
+            "4000\u00e2\u0080\u00937FFF",
+            "Text"
+        ],
+        [
+            "4.0",
+            "40 \u00c3\u0097 32",
+            "320 \u00c3\u0097 256",
+            "2.0",
+            "10.0",
+            "5800\u00e2\u0080\u00937FFF",
+            "Graphics"
+        ],
+        [
+            "5.0",
+            "20 \u00c3\u0097 32",
+            "160 \u00c3\u0097 256",
+            "4.0",
+            "10.0",
+            "5800\u00e2\u0080\u00937FFF",
+            "Graphics"
+        ],
+        [
+            "6.0",
+            "40 \u00c3\u0097 25",
+            "320 \u00c3\u0097 200",
+            "2.0",
+            "8.0",
+            "6000\u00e2\u0080\u00937FFF",
+            "Text"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "73ac15ab6d625ab6c1870daaaa50fcaf2149f6d783366d2836d0e730d58a429a",
+    "metadata": "tracking_grants_for_research | research_outcomes",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "outcome_code",
+        "outcome_description"
+    ],
+    "cell": [
+        [
+            "Paper",
+            "Published Research Paper"
+        ],
+        [
+            "Patent",
+            "Research Patent"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

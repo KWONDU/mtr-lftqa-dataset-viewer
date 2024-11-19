@@ -1,0 +1,56 @@
+{
+    "id": "bdb8613aef8f03c7d3323fc108de26cbe21e8dd5d1eef992396b65e2d24da6b1",
+    "metadata": "entertainment_awards | festival_detail",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Festival_ID",
+        "Festival_Name",
+        "Chair_Name",
+        "Location",
+        "Year",
+        "Num_of_Audience"
+    ],
+    "cell": [
+        [
+            "1",
+            "Panasonic Awards",
+            "Raymond Floyd",
+            "United States",
+            "2006",
+            "152"
+        ],
+        [
+            "2",
+            "Flower Awards",
+            "Charles Coody",
+            "United States",
+            "2007",
+            "155"
+        ],
+        [
+            "3",
+            "Cherry Awards",
+            "Doug Ford",
+            "United States",
+            "2007",
+            "160"
+        ],
+        [
+            "4",
+            "Gobel Awards",
+            "Arnold Palmer",
+            "United States",
+            "2008",
+            "160"
+        ],
+        [
+            "5",
+            "LA Awards",
+            "Lucy Lu",
+            "United States",
+            "2010",
+            "161"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

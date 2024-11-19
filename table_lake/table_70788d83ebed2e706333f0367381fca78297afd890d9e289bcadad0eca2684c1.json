@@ -1,0 +1,168 @@
+{
+    "id": "70788d83ebed2e706333f0367381fca78297afd890d9e289bcadad0eca2684c1",
+    "metadata": "customers_and_invoices | financial_transactions",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "transaction_id",
+        "account_id",
+        "invoice_number",
+        "transaction_type",
+        "transaction_date",
+        "transaction_amount",
+        "transaction_comment",
+        "other_transaction_details"
+    ],
+    "cell": [
+        [
+            "1",
+            "13",
+            "12",
+            "Payment",
+            "2018-03-15 21:13:57",
+            "613.96",
+            "None",
+            "None"
+        ],
+        [
+            "2",
+            "9",
+            "1",
+            "Payment",
+            "2018-03-13 13:27:46",
+            "368.46",
+            "None",
+            "None"
+        ],
+        [
+            "3",
+            "6",
+            "1",
+            "Refund",
+            "2018-03-03 01:50:25",
+            "1598.25",
+            "None",
+            "None"
+        ],
+        [
+            "4",
+            "9",
+            "12",
+            "Payment",
+            "2018-03-10 13:46:48",
+            "540.73",
+            "None",
+            "None"
+        ],
+        [
+            "5",
+            "9",
+            "2",
+            "Payment",
+            "2018-03-23 04:56:12",
+            "1214.22",
+            "None",
+            "None"
+        ],
+        [
+            "6",
+            "12",
+            "3",
+            "Refund",
+            "2018-03-22 21:58:37",
+            "1903.41",
+            "None",
+            "None"
+        ],
+        [
+            "7",
+            "13",
+            "14",
+            "Payment",
+            "2018-03-12 03:06:52",
+            "1585.03",
+            "None",
+            "None"
+        ],
+        [
+            "8",
+            "14",
+            "15",
+            "Payment",
+            "2018-03-11 21:57:47",
+            "1425.41",
+            "None",
+            "None"
+        ],
+        [
+            "9",
+            "8",
+            "12",
+            "Payment",
+            "2018-03-07 04:32:54",
+            "1517.77",
+            "None",
+            "None"
+        ],
+        [
+            "10",
+            "6",
+            "15",
+            "Payment",
+            "2018-03-14 19:09:07",
+            "1477.57",
+            "None",
+            "None"
+        ],
+        [
+            "11",
+            "6",
+            "13",
+            "Refund",
+            "2018-03-12 22:51:05",
+            "1567.64",
+            "None",
+            "None"
+        ],
+        [
+            "12",
+            "9",
+            "6",
+            "Refund",
+            "2018-03-05 19:55:23",
+            "1781.24",
+            "None",
+            "None"
+        ],
+        [
+            "13",
+            "13",
+            "12",
+            "Refund",
+            "2018-03-24 12:05:11",
+            "899.87",
+            "None",
+            "None"
+        ],
+        [
+            "14",
+            "11",
+            "5",
+            "Refund",
+            "2018-03-13 03:51:59",
+            "1462.62",
+            "None",
+            "None"
+        ],
+        [
+            "15",
+            "4",
+            "14",
+            "Refund",
+            "2018-02-27 14:58:30",
+            "1979.66",
+            "None",
+            "None"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "8f59163966d9862fcb2854b76569c3f2a8f57cd188c76a0e3b71b3bacac58435",
+    "metadata": "apartment_rentals | apartment_facilities",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "apt_id",
+        "facility_code"
+    ],
+    "cell": [
+        [
+            "1",
+            "Boardband"
+        ],
+        [
+            "2",
+            "Boardband"
+        ],
+        [
+            "3",
+            "Gym"
+        ],
+        [
+            "5",
+            "Swimming Pool"
+        ],
+        [
+            "6",
+            "Cable TV"
+        ],
+        [
+            "9",
+            "Boardband"
+        ],
+        [
+            "15",
+            "Gym"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

@@ -1,0 +1,88 @@
+{
+    "id": "272bae899ad834ec871a5d350c48d200e11d4872e3f82647549fc8864db9e2d7",
+    "metadata": "musical | actor",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Actor_ID",
+        "Name",
+        "Musical_ID",
+        "Character",
+        "Duration",
+        "age"
+    ],
+    "cell": [
+        [
+            "1",
+            "Ray Meagher",
+            "1",
+            "Alf Stewart",
+            "1988\u00e2\u0080\u0094",
+            "26"
+        ],
+        [
+            "2",
+            "Tom Oliver",
+            "1",
+            "Lou Carpenter",
+            "1988, 1992\u00e2\u0080\u0094",
+            "22"
+        ],
+        [
+            "3",
+            "Lynne McGranger",
+            "2",
+            "Irene Roberts",
+            "1993\u00e2\u0080\u0094",
+            "21"
+        ],
+        [
+            "4",
+            "Kate Ritchie",
+            "2",
+            "Sally Fletcher",
+            "1988\u00e2\u0080\u00932008, 2013",
+            "20"
+        ],
+        [
+            "5",
+            "Alan Fletcher",
+            "4",
+            "Karl Kennedy",
+            "1994\u00e2\u0080\u0094",
+            "20"
+        ],
+        [
+            "6",
+            "Jackie Woodburne",
+            "6",
+            "Susan Kennedy",
+            "1994\u00e2\u0080\u0094",
+            "20"
+        ],
+        [
+            "7",
+            "Ryan Moloney",
+            "6",
+            "Toadfish Rebecchi",
+            "1995, 1996\u00e2\u0080\u0094",
+            "18"
+        ],
+        [
+            "8",
+            "Ian Smith",
+            "6",
+            "Harold Bishop",
+            "1987\u00e2\u0080\u00931991, 1996\u00e2\u0080\u00932009, 2011",
+            "17"
+        ],
+        [
+            "9",
+            "Stefan Dennis",
+            "6",
+            "Paul Robinson",
+            "1985\u00e2\u0080\u00931992, 1993, 2004\u00e2\u0080\u0094",
+            "17"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

@@ -1,0 +1,62 @@
+{
+    "id": "1fa9cc4d3610a59594bdf66ce48200d9110ad98eedc5b7fb52d529ccc9a88663",
+    "metadata": "cinema | film",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Film_ID",
+        "Rank_in_series",
+        "Number_in_season",
+        "Title",
+        "Directed_by",
+        "Original_air_date",
+        "Production_code"
+    ],
+    "cell": [
+        [
+            "1",
+            "26",
+            "1",
+            "The Case of the Mystery Weekend",
+            "Bill Schreiner",
+            "September 21\u00e2\u0080\u009325, 1992",
+            "50021\u00e2\u0080\u009350025"
+        ],
+        [
+            "2",
+            "27",
+            "2",
+            "The Case of the Smart Dummy",
+            "Bill Schreiner",
+            "September 28\u00e2\u0080\u0093October 2, 1992",
+            "50231\u00e2\u0080\u009350235"
+        ],
+        [
+            "3",
+            "28",
+            "3",
+            "The Case: Off the Record",
+            "Bill Schreiner",
+            "October 5\u00e2\u0080\u00939, 1992",
+            "50011\u00e2\u0080\u009350015"
+        ],
+        [
+            "4",
+            "29",
+            "4",
+            "The Case of the Bermuda Triangle",
+            "Jesus Salvador Trevi\u00c3\u00b1o",
+            "October 12\u00e2\u0080\u009316, 1992",
+            "50251\u00e2\u0080\u009350255"
+        ],
+        [
+            "5",
+            "30",
+            "5",
+            "The Case of the Piggy Banker",
+            "Bill Schreiner",
+            "October 19\u00e2\u0080\u009323, 1992",
+            "50241\u00e2\u0080\u009350245"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

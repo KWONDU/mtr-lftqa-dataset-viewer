@@ -1,0 +1,24 @@
+{
+    "id": "f214872e2ce59974f9401353532412a5719bf179bf266c4d17f2f129cc821777",
+    "metadata": "cre_doc_control_systems | ref_document_types",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "document_type_code",
+        "document_type_description"
+    ],
+    "cell": [
+        [
+            "CD",
+            "b"
+        ],
+        [
+            "Paper",
+            "u"
+        ],
+        [
+            "Hard Drive",
+            "f"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

@@ -1,0 +1,28 @@
+{
+    "id": "8535a74e83b8af3c8691da5edff32c3eeed0bd5e962e4ee7c717c9074228dc18",
+    "metadata": "hospital_1 | department",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "DepartmentID",
+        "Name",
+        "Head"
+    ],
+    "cell": [
+        [
+            "1",
+            "General Medicine",
+            "4"
+        ],
+        [
+            "2",
+            "Surgery",
+            "7"
+        ],
+        [
+            "3",
+            "Psychiatry",
+            "9"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

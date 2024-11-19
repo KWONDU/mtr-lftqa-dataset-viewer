@@ -1,0 +1,40 @@
+{
+    "id": "d620142f2858e36988df3958affc82b6c0973a7f40720dd69543c3b42dd90e2e",
+    "metadata": "small_bank_1 | checking",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "custid",
+        "balance"
+    ],
+    "cell": [
+        [
+            "1",
+            "10000.0"
+        ],
+        [
+            "2",
+            "2000.0"
+        ],
+        [
+            "3",
+            "3000.0"
+        ],
+        [
+            "4",
+            "7000.0"
+        ],
+        [
+            "5",
+            "10000.0"
+        ],
+        [
+            "6",
+            "77.0"
+        ],
+        [
+            "7",
+            "7.0"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

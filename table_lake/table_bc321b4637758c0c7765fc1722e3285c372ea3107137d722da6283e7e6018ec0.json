@@ -1,0 +1,64 @@
+{
+    "id": "bc321b4637758c0c7765fc1722e3285c372ea3107137d722da6283e7e6018ec0",
+    "metadata": "school_bus | school",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "School_ID",
+        "Grade",
+        "School",
+        "Location",
+        "Type"
+    ],
+    "cell": [
+        [
+            "1",
+            "Kindergarten",
+            "Noelani Elementary School",
+            "Honolulu, Hawaii",
+            "Public"
+        ],
+        [
+            "2",
+            "1st-3rd grade",
+            "St. Francis Assisi",
+            "Jakarta, Indonesia",
+            "Private Catholic"
+        ],
+        [
+            "3",
+            "4th grade",
+            "State Elementary School Menteng 01",
+            "Jakarta, Indonesia",
+            "Public"
+        ],
+        [
+            "4",
+            "5th-12th grade",
+            "Punahou School",
+            "Honolulu, Hawaii",
+            "Private"
+        ],
+        [
+            "5",
+            "Freshman\u00e2\u0080\u0093Sophomore year",
+            "Occidental College",
+            "Los Angeles, California",
+            "Private"
+        ],
+        [
+            "6",
+            "Junior\u00e2\u0080\u0093Senior year",
+            "Columbia University",
+            "New York City",
+            "Private"
+        ],
+        [
+            "7",
+            "College",
+            "Harvard Law School",
+            "Cambridge, Massachusetts",
+            "Private"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

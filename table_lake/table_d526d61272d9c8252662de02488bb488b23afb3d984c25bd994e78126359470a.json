@@ -1,0 +1,60 @@
+{
+    "id": "d526d61272d9c8252662de02488bb488b23afb3d984c25bd994e78126359470a",
+    "metadata": "scientist_1 | scientists",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "SSN",
+        "Name"
+    ],
+    "cell": [
+        [
+            "123234877",
+            "Michael Rogers"
+        ],
+        [
+            "152934485",
+            "Anand Manikutty"
+        ],
+        [
+            "222364883",
+            "Carol Smith"
+        ],
+        [
+            "326587417",
+            "Joe Stevens"
+        ],
+        [
+            "332154719",
+            "Mary-Anne Foster"
+        ],
+        [
+            "332569843",
+            "George ODonnell"
+        ],
+        [
+            "546523478",
+            "John Doe"
+        ],
+        [
+            "631231482",
+            "David Smith"
+        ],
+        [
+            "654873219",
+            "Zacary Efron"
+        ],
+        [
+            "745685214",
+            "Eric Goldsmith"
+        ],
+        [
+            "845657245",
+            "Elizabeth Doe"
+        ],
+        [
+            "845657246",
+            "Kumar Swamy"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

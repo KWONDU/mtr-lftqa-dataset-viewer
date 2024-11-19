@@ -1,0 +1,38 @@
+{
+    "id": "dee732f05eb5fe8b569f2fa477e7f0015df47aad6d592b8cc0dab0f40d20a4cf",
+    "metadata": "company_employee | employment",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Company_ID",
+        "People_ID",
+        "Year_working"
+    ],
+    "cell": [
+        [
+            "11",
+            "3",
+            "2"
+        ],
+        [
+            "13",
+            "2",
+            "3"
+        ],
+        [
+            "17",
+            "7",
+            "4"
+        ],
+        [
+            "15",
+            "1",
+            "1"
+        ],
+        [
+            "7",
+            "4",
+            "1"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

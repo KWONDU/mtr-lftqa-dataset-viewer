@@ -1,0 +1,20 @@
+{
+    "id": "d09907266ce429a356c1fec030c4f22777d1a48c8a212143bbdeea3a694e0376",
+    "metadata": "real_estate_properties | ref_feature_types",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "feature_type_code",
+        "feature_type_name"
+    ],
+    "cell": [
+        [
+            "Amenity",
+            "Amenity, eg Pool."
+        ],
+        [
+            "Security",
+            "Securiyt, eg Burglar Alarm."
+        ]
+    ],
+    "source": "spider-tableQA"
+}

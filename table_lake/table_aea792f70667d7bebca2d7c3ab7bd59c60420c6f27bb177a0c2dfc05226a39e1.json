@@ -1,0 +1,80 @@
+{
+    "id": "aea792f70667d7bebca2d7c3ab7bd59c60420c6f27bb177a0c2dfc05226a39e1",
+    "metadata": "protein_institute | building",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "building_id",
+        "Name",
+        "Street_address",
+        "Years_as_tallest",
+        "Height_feet",
+        "Floors"
+    ],
+    "cell": [
+        [
+            "0",
+            "Citizens Bank Building",
+            "701 North Franklin Street",
+            "1913\u00e2\u0080\u00931915",
+            "145",
+            "12"
+        ],
+        [
+            "1",
+            "Tampa City Hall",
+            "315 John F. Kennedy Boulevard",
+            "1915\u00e2\u0080\u00931926",
+            "160",
+            "10"
+        ],
+        [
+            "2",
+            "Floridan Hotel",
+            "905 Franklin Street",
+            "1926\u00e2\u0080\u00931966",
+            "204",
+            "17"
+        ],
+        [
+            "3",
+            "Franklin Exchange Building",
+            "655 North Franklin Street",
+            "1966\u00e2\u0080\u00931972",
+            "280",
+            "22"
+        ],
+        [
+            "4",
+            "Park Tower",
+            "400 North Tampa Street",
+            "1972\u00e2\u0080\u00931981",
+            "458",
+            "36"
+        ],
+        [
+            "5",
+            "One Tampa City Center",
+            "201 North Franklin Street",
+            "1981\u00e2\u0080\u00931986",
+            "537",
+            "39"
+        ],
+        [
+            "6",
+            "Bank of America Tower",
+            "101 East Kennedy Boulevard",
+            "1986\u00e2\u0080\u00931992",
+            "577",
+            "42"
+        ],
+        [
+            "7",
+            "100 North Tampa",
+            "100 North Tampa Street",
+            "1992\u00e2\u0080\u0093present",
+            "579",
+            "42"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

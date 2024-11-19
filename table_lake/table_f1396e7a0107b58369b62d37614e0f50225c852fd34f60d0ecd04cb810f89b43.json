@@ -1,0 +1,44 @@
+{
+    "id": "f1396e7a0107b58369b62d37614e0f50225c852fd34f60d0ecd04cb810f89b43",
+    "metadata": "epinions_1 | item",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "i_id",
+        "title"
+    ],
+    "cell": [
+        [
+            "0",
+            "pear"
+        ],
+        [
+            "1",
+            "orange"
+        ],
+        [
+            "2",
+            "apple"
+        ],
+        [
+            "3",
+            "shampoo"
+        ],
+        [
+            "4",
+            "avocado"
+        ],
+        [
+            "5",
+            "comb"
+        ],
+        [
+            "6",
+            "blue hoodie"
+        ],
+        [
+            "7",
+            "cup"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

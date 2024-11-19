@@ -1,0 +1,24 @@
+{
+    "id": "0feacad84685892e036bc7d0f357ebc432b964b3e103b4b8974685dcfe442663",
+    "metadata": "pets_1 | has_pet",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "StuID",
+        "PetID"
+    ],
+    "cell": [
+        [
+            "1001",
+            "2001"
+        ],
+        [
+            "1002",
+            "2002"
+        ],
+        [
+            "1002",
+            "2003"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

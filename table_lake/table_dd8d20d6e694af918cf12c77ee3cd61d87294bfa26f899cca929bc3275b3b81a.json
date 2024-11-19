@@ -1,0 +1,62 @@
+{
+    "id": "dd8d20d6e694af918cf12c77ee3cd61d87294bfa26f899cca929bc3275b3b81a",
+    "metadata": "party_people | party_events",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Event_ID",
+        "Event_Name",
+        "Party_ID",
+        "Member_in_charge_ID"
+    ],
+    "cell": [
+        [
+            "1",
+            "Annaual Meeting",
+            "1",
+            "4"
+        ],
+        [
+            "2",
+            "Conference",
+            "1",
+            "12"
+        ],
+        [
+            "3",
+            "Annaual Meeting",
+            "2",
+            "2"
+        ],
+        [
+            "4",
+            "Budget Meeting",
+            "2",
+            "3"
+        ],
+        [
+            "5",
+            "Annaual Meeting",
+            "3",
+            "10"
+        ],
+        [
+            "6",
+            "Election Meeting",
+            "3",
+            "11"
+        ],
+        [
+            "7",
+            "Budget Meeting",
+            "3",
+            "15"
+        ],
+        [
+            "8",
+            "Election Meeting",
+            "1",
+            "4"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

@@ -1,0 +1,64 @@
+{
+    "id": "5e14ad95357ac6302665baa072b4d3d29bbc525666835d211c0414434f21ccc9",
+    "metadata": "school_player | school_details",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "School_ID",
+        "Nickname",
+        "Colors",
+        "League",
+        "Class",
+        "Division"
+    ],
+    "cell": [
+        [
+            "1",
+            "Tigers",
+            "Blue and Yellow",
+            "DSHA",
+            "Flight A",
+            "Division 1"
+        ],
+        [
+            "2",
+            "Auks",
+            "Dark Green and White",
+            "DSHA",
+            "Flight B",
+            "Division 3"
+        ],
+        [
+            "3",
+            "Buccaneers",
+            "Garnet and White",
+            "DSHA",
+            "Fight A",
+            "Division 1"
+        ],
+        [
+            "4",
+            "Raiders",
+            "Maroon and White",
+            "DSHA",
+            "Flight B",
+            "Division 3"
+        ],
+        [
+            "5",
+            "Seahawks",
+            "Blue and Gold",
+            "DSHA",
+            "Flight B",
+            "Division 2"
+        ],
+        [
+            "6",
+            "Silver Eagles",
+            "Silver and Maroon",
+            "DSHA",
+            "Flight B",
+            "Division 3"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

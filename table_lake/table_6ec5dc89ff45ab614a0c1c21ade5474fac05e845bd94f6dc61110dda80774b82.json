@@ -1,0 +1,50 @@
+{
+    "id": "6ec5dc89ff45ab614a0c1c21ade5474fac05e845bd94f6dc61110dda80774b82",
+    "metadata": "pilot_record | pilot_record",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Record_ID",
+        "Pilot_ID",
+        "Aircraft_ID",
+        "Date"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "1",
+            "2003/01/04"
+        ],
+        [
+            "2",
+            "2",
+            "1",
+            "2004/01/04"
+        ],
+        [
+            "3",
+            "1",
+            "4",
+            "2005/01/04"
+        ],
+        [
+            "4",
+            "3",
+            "6",
+            "2006/01/04"
+        ],
+        [
+            "5",
+            "4",
+            "2",
+            "2007/01/04"
+        ],
+        [
+            "6",
+            "1",
+            "5",
+            "2008/01/04"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

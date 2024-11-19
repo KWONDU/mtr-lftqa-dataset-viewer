@@ -1,0 +1,73 @@
+{
+    "id": "d48fe159b9df15e105f87e85cc7d27612becc83720672ac3987fd0a82cb8302c",
+    "metadata": "student_1 | teachers",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "LastName",
+        "FirstName",
+        "Classroom"
+    ],
+    "cell": [
+        [
+            "MACROSTIE",
+            "MIN",
+            "101"
+        ],
+        [
+            "COVIN",
+            "JEROME",
+            "102"
+        ],
+        [
+            "MOYER",
+            "OTHA",
+            "103"
+        ],
+        [
+            "NIBLER",
+            "JERLENE",
+            "104"
+        ],
+        [
+            "MARROTTE",
+            "KIRK",
+            "105"
+        ],
+        [
+            "TARRING",
+            "LEIA",
+            "106"
+        ],
+        [
+            "URSERY",
+            "CHARMAINE",
+            "107"
+        ],
+        [
+            "ONDERSMA",
+            "LORIA",
+            "108"
+        ],
+        [
+            "KAWA",
+            "GORDON",
+            "109"
+        ],
+        [
+            "SUMPTION",
+            "GEORGETTA",
+            "110"
+        ],
+        [
+            "KRIENER",
+            "BILLIE",
+            "111"
+        ],
+        [
+            "SUGAI",
+            "ALFREDA",
+            "112"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

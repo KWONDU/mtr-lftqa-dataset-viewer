@@ -1,0 +1,64 @@
+{
+    "id": "127d1fac4fb4cb414beb5e52f240e5184e441a76d80aed3993400d0be5d33dfd",
+    "metadata": "company_employee | people",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "People_ID",
+        "Age",
+        "Name",
+        "Nationality",
+        "Graduation_College"
+    ],
+    "cell": [
+        [
+            "1",
+            "27",
+            "Reggie Lewis",
+            "United States",
+            "Northeastern"
+        ],
+        [
+            "2",
+            "25",
+            "Brad Lohaus",
+            "United States",
+            "Iowa"
+        ],
+        [
+            "3",
+            "37",
+            "Tom Sheehey",
+            "United Kindom",
+            "Virginia"
+        ],
+        [
+            "4",
+            "31",
+            "Darryl Kennedy",
+            "United States",
+            "Oklahoma"
+        ],
+        [
+            "5",
+            "34",
+            "David Butler",
+            "United Kindom",
+            "California"
+        ],
+        [
+            "6",
+            "37",
+            "Tim Naegeli",
+            "United States",
+            "Wisconsin\u00e2\u0080\u0093Stevens Point"
+        ],
+        [
+            "7",
+            "30",
+            "Jerry Corcoran",
+            "United States",
+            "Northeastern"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

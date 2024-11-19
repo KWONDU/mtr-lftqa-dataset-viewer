@@ -1,0 +1,33 @@
+{
+    "id": "c20be1391253c4c320be3e62e308283c8b074bf8257f730cbe39280202939173",
+    "metadata": "department_store | suppliers",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "supplier_id",
+        "supplier_name",
+        "supplier_phone"
+    ],
+    "cell": [
+        [
+            "1",
+            "Lidl",
+            "(692)009-5928"
+        ],
+        [
+            "2",
+            "AB Store",
+            "1-483-283-4742"
+        ],
+        [
+            "3",
+            "Tesco",
+            "287-071-1153x254"
+        ],
+        [
+            "4",
+            "Audi",
+            "1-432-960-2402x1734"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "4aa29d663fee2f7253321a9997fb5a23d4596bde6520428c28efe0e1522307cb",
+    "metadata": "small_bank_1 | accounts",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "custid",
+        "name"
+    ],
+    "cell": [
+        [
+            "1",
+            "Brown"
+        ],
+        [
+            "2",
+            "Wang"
+        ],
+        [
+            "3",
+            "O'mahony"
+        ],
+        [
+            "4",
+            "Weeks"
+        ],
+        [
+            "5",
+            "Granger"
+        ],
+        [
+            "6",
+            "Porter"
+        ],
+        [
+            "7",
+            "Wesley"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

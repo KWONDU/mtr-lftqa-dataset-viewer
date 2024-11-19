@@ -1,0 +1,72 @@
+{
+    "id": "8a2ec4a1c7e0412e08ebb72d909169094eb61ee375215d03eeb1e247701a4dcc",
+    "metadata": "insurance_fnol | customers",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Customer_ID",
+        "Customer_name"
+    ],
+    "cell": [
+        [
+            "194",
+            "America Jaskolski"
+        ],
+        [
+            "214",
+            "Ellsworth Paucek"
+        ],
+        [
+            "256",
+            "Mrs. Hanna Willms"
+        ],
+        [
+            "562",
+            "Dr. Diana Rath"
+        ],
+        [
+            "582",
+            "Selena Gerhold"
+        ],
+        [
+            "641",
+            "Dayana Robel"
+        ],
+        [
+            "682",
+            "Mr. Edwardo Blanda I"
+        ],
+        [
+            "756",
+            "Mr. Randal Lynch III"
+        ],
+        [
+            "805",
+            "Mrs. Liza Heller V"
+        ],
+        [
+            "826",
+            "Mrs. Lilly Graham III"
+        ],
+        [
+            "882",
+            "Miss Felicita Reichel"
+        ],
+        [
+            "892",
+            "Sydnie Friesen"
+        ],
+        [
+            "923",
+            "David Ross"
+        ],
+        [
+            "956",
+            "Cai Zhang"
+        ],
+        [
+            "996",
+            "Jay Chou"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

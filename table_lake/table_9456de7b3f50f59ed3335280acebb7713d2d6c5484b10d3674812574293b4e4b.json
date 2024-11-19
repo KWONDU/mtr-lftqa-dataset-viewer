@@ -1,0 +1,28 @@
+{
+    "id": "9456de7b3f50f59ed3335280acebb7713d2d6c5484b10d3674812574293b4e4b",
+    "metadata": "dog_kennels | charges",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "charge_id",
+        "charge_type",
+        "charge_amount"
+    ],
+    "cell": [
+        [
+            "1",
+            "Daily Accommodation",
+            "98"
+        ],
+        [
+            "2",
+            "Drugs",
+            "322"
+        ],
+        [
+            "3",
+            "Health Check",
+            "640"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

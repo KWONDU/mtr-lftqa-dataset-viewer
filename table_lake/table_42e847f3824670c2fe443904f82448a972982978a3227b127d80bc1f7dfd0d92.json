@@ -1,0 +1,50 @@
+{
+    "id": "42e847f3824670c2fe443904f82448a972982978a3227b127d80bc1f7dfd0d92",
+    "metadata": "riding_club | club",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Club_ID",
+        "Club_name",
+        "Region",
+        "Start_year"
+    ],
+    "cell": [
+        [
+            "1",
+            "AIK",
+            "USA",
+            "2009"
+        ],
+        [
+            "2",
+            "BK H\u00c3\u00a4cken",
+            "UK",
+            "1998"
+        ],
+        [
+            "3",
+            "Djurg\u00c3\u00a5rdens IF",
+            "USA",
+            "2005"
+        ],
+        [
+            "4",
+            "Gefle IF",
+            "Korea",
+            "2001"
+        ],
+        [
+            "5",
+            "Halmstads BK",
+            "Russia",
+            "2000"
+        ],
+        [
+            "6",
+            "Helsingborgs IF",
+            "France",
+            "2011"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

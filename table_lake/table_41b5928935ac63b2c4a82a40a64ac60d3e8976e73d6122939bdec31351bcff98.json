@@ -1,0 +1,62 @@
+{
+    "id": "41b5928935ac63b2c4a82a40a64ac60d3e8976e73d6122939bdec31351bcff98",
+    "metadata": "movie_1 | movie",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "mID",
+        "title",
+        "year",
+        "director"
+    ],
+    "cell": [
+        [
+            "101",
+            "Gone with the Wind",
+            "1939",
+            "Victor Fleming"
+        ],
+        [
+            "102",
+            "Star Wars",
+            "1977",
+            "George Lucas"
+        ],
+        [
+            "103",
+            "The Sound of Music",
+            "1965",
+            "Robert Wise"
+        ],
+        [
+            "104",
+            "E.T.",
+            "1982",
+            "Steven Spielberg"
+        ],
+        [
+            "105",
+            "Titanic",
+            "1997",
+            "James Cameron"
+        ],
+        [
+            "106",
+            "Snow White",
+            "1937",
+            "None"
+        ],
+        [
+            "107",
+            "Avatar",
+            "2009",
+            "James Cameron"
+        ],
+        [
+            "108",
+            "Raiders of the Lost Ark",
+            "1981",
+            "Steven Spielberg"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

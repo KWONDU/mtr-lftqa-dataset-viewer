@@ -1,0 +1,106 @@
+{
+    "id": "b90b3463e94c96c1ae7a73041f43bf5aacc4e75c90dd543e965bcb107efad334",
+    "metadata": "battle_death | death",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "caused_by_ship_id",
+        "id",
+        "note",
+        "killed",
+        "injured"
+    ],
+    "cell": [
+        [
+            "1",
+            "1",
+            "Dantewada, Chhattisgarh",
+            "8",
+            "0"
+        ],
+        [
+            "2",
+            "2",
+            "Dantewada, Chhattisgarh",
+            "3",
+            "0"
+        ],
+        [
+            "3",
+            "13",
+            "Erraboru, Chhattisgarh",
+            "25",
+            "0"
+        ],
+        [
+            "3",
+            "3",
+            "East Champaran, Bihar",
+            "2",
+            "0"
+        ],
+        [
+            "4",
+            "4",
+            "Gajapati, Odisha",
+            "3",
+            "0"
+        ],
+        [
+            "4",
+            "5",
+            "Sundargarh, Odisha",
+            "0",
+            "9"
+        ],
+        [
+            "5",
+            "6",
+            "Dantewada, Chhattisgarh",
+            "0",
+            "0"
+        ],
+        [
+            "5",
+            "7",
+            "Dantewada, Chhattisgarh",
+            "4",
+            "5"
+        ],
+        [
+            "6",
+            "8",
+            "Kanker, Chhattisgarh",
+            "0",
+            "0"
+        ],
+        [
+            "1",
+            "9",
+            "Dantewada, Chhattisgarh",
+            "29",
+            "0"
+        ],
+        [
+            "3",
+            "10",
+            "WestMidnapore, West Bengal",
+            "0",
+            "0"
+        ],
+        [
+            "2",
+            "11",
+            "Bastar, Chattisgarh",
+            "0",
+            "0"
+        ],
+        [
+            "5",
+            "12",
+            "Bokaro, Jharkhand",
+            "14",
+            "0"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

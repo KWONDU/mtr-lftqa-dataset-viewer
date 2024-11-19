@@ -1,0 +1,20 @@
+{
+    "id": "94b50c45c5080b67af2b227535433915ae59c6edb7f15612a00e5a8fd20cf0ee",
+    "metadata": "cre_theme_park | street_markets",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Market_ID",
+        "Market_Details"
+    ],
+    "cell": [
+        [
+            "6852",
+            "Broadway"
+        ],
+        [
+            "7067",
+            "Fish Farm Market"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

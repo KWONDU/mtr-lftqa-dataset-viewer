@@ -1,0 +1,44 @@
+{
+    "id": "408547ef89a798025d2e550742b3462821a8b5bbe644b449708a7e3ad0c51ce1",
+    "metadata": "movie_1 | reviewer",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "rID",
+        "name"
+    ],
+    "cell": [
+        [
+            "201",
+            "Sarah Martinez"
+        ],
+        [
+            "202",
+            "Daniel Lewis"
+        ],
+        [
+            "203",
+            "Brittany Harris"
+        ],
+        [
+            "204",
+            "Mike Anderson"
+        ],
+        [
+            "205",
+            "Chris Jackson"
+        ],
+        [
+            "206",
+            "Elizabeth Thomas"
+        ],
+        [
+            "207",
+            "James Cameron"
+        ],
+        [
+            "208",
+            "Ashley White"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

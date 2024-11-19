@@ -1,0 +1,85 @@
+{
+    "id": "3d19a32e7ed76e857db693da6ad5006730956f5789b19b50eaf7c19c55c9c9cc",
+    "metadata": "gymnast | people",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "People_ID",
+        "Name",
+        "Age",
+        "Height",
+        "Hometown"
+    ],
+    "cell": [
+        [
+            "1",
+            "Paul Hamm",
+            "24.0",
+            "1.71",
+            "Santo Domingo"
+        ],
+        [
+            "2",
+            "Lorraine S\u00c3\u00baarez Carmona",
+            "21.0",
+            "1.75",
+            "Bonao"
+        ],
+        [
+            "3",
+            "Ashley P\u00c3\u00a9rez Cabrera",
+            "19.0",
+            "1.7",
+            "Miami"
+        ],
+        [
+            "4",
+            "Elizabeth Qui\u00c3\u00b1\u00c3\u00b3nez Aroyo",
+            "20.0",
+            "1.71",
+            "Santo Domingo"
+        ],
+        [
+            "5",
+            "Eve Tatiana Cruz Oviedo",
+            "19.0",
+            "1.72",
+            "Santo Domingo"
+        ],
+        [
+            "6",
+            "Nadia Caba Rodr\u00c3\u00adguez",
+            "22.0",
+            "1.79",
+            "Santo Domingo"
+        ],
+        [
+            "7",
+            "Clary Sermina Delgado Cid",
+            "21.0",
+            "1.75",
+            "Santiago de los Caballeros"
+        ],
+        [
+            "8",
+            "Marina Castro Medina",
+            "20.0",
+            "1.76",
+            "Santo Domingo"
+        ],
+        [
+            "9",
+            "Rosa Clarissa Ort\u00c3\u00adz Melo",
+            "23.0",
+            "1.81",
+            "La Romana"
+        ],
+        [
+            "10",
+            "Endis de los Santos \u00c3\u0081lvarez",
+            "24.0",
+            "1.72",
+            "Los Alcarrizos"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

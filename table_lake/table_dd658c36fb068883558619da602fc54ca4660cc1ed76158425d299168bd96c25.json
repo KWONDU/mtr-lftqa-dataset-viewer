@@ -1,0 +1,24 @@
+{
+    "id": "dd658c36fb068883558619da602fc54ca4660cc1ed76158425d299168bd96c25",
+    "metadata": "local_govt_mdm | business_rates",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "business_rates_id",
+        "cmi_cross_ref_id"
+    ],
+    "cell": [
+        [
+            "2",
+            "99"
+        ],
+        [
+            "5",
+            "49"
+        ],
+        [
+            "8",
+            "95"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

@@ -1,0 +1,104 @@
+{
+    "id": "32242ecaa729b09c13f27c5fcbab1f1f7843b4522a7f73b8f6f0965283e79097",
+    "metadata": "student_transcripts_tracking | departments",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "department_id",
+        "department_name",
+        "department_description",
+        "other_details"
+    ],
+    "cell": [
+        [
+            "1",
+            "computer science",
+            "error",
+            "None"
+        ],
+        [
+            "2",
+            "history",
+            "nostrum",
+            "None"
+        ],
+        [
+            "3",
+            "art",
+            "aliquam",
+            "None"
+        ],
+        [
+            "4",
+            "linguistic",
+            "natus",
+            "None"
+        ],
+        [
+            "5",
+            "management",
+            "nihil",
+            "None"
+        ],
+        [
+            "6",
+            "engineer",
+            "autem",
+            "None"
+        ],
+        [
+            "7",
+            "math",
+            "doloribus",
+            "None"
+        ],
+        [
+            "8",
+            "statistics",
+            "nihil",
+            "None"
+        ],
+        [
+            "9",
+            "law",
+            "dolorem",
+            "None"
+        ],
+        [
+            "10",
+            "economics",
+            "non",
+            "None"
+        ],
+        [
+            "11",
+            "biology",
+            "consequatur",
+            "None"
+        ],
+        [
+            "12",
+            "medical",
+            "ea",
+            "None"
+        ],
+        [
+            "13",
+            "dance",
+            "consequatur",
+            "None"
+        ],
+        [
+            "14",
+            "drama",
+            "in",
+            "None"
+        ],
+        [
+            "15",
+            "geography",
+            "nisi",
+            "None"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

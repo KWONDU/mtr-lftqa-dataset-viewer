@@ -1,0 +1,57 @@
+{
+    "id": "1bf2d2ae9042062188c8e0123065f4888dc31ba5c33e4bdd70e55af07700e220",
+    "metadata": "farm | farm_competition",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Competition_ID",
+        "Year",
+        "Theme",
+        "Host_city_ID",
+        "Hosts"
+    ],
+    "cell": [
+        [
+            "1",
+            "2013",
+            "Carnival M is back!",
+            "1",
+            "Miley Cyrus Jared Leto and Karen Mok"
+        ],
+        [
+            "2",
+            "2006",
+            "Codehunters",
+            "2",
+            "Leehom Wang and Kelly Rowland"
+        ],
+        [
+            "3",
+            "2005",
+            "MTV Asia Aid",
+            "3",
+            "Alicia Keys"
+        ],
+        [
+            "4",
+            "2004",
+            "Valentine's Day",
+            "4",
+            "Vanness Wu and Michelle Branch"
+        ],
+        [
+            "5",
+            "2003",
+            "MTV Cube",
+            "5",
+            "Shaggy and Coco Lee"
+        ],
+        [
+            "6",
+            "2002",
+            "Aliens",
+            "5",
+            "Mandy Moore and Ronan Keating"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

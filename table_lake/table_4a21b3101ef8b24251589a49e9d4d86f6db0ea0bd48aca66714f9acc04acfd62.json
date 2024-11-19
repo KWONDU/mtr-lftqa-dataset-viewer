@@ -1,0 +1,64 @@
+{
+    "id": "4a21b3101ef8b24251589a49e9d4d86f6db0ea0bd48aca66714f9acc04acfd62",
+    "metadata": "race_track | race",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Race_ID",
+        "Name",
+        "Class",
+        "Date",
+        "Track_ID"
+    ],
+    "cell": [
+        [
+            "1",
+            "Rolex 24 At Daytona",
+            "DP/GT",
+            "January 26 January 27",
+            "1"
+        ],
+        [
+            "2",
+            "Gainsco Grand Prix of Miami",
+            "DP/GT",
+            "March 29",
+            "2"
+        ],
+        [
+            "3",
+            "Mexico City 250",
+            "DP/GT",
+            "April 19",
+            "2"
+        ],
+        [
+            "4",
+            "Bosch Engineering 250 at VIR",
+            "GT",
+            "April 27",
+            "4"
+        ],
+        [
+            "5",
+            "RumBum.com 250",
+            "DP/GT",
+            "May 17",
+            "5"
+        ],
+        [
+            "6",
+            "Lime Rock GT Classic 250",
+            "GT",
+            "May 26",
+            "6"
+        ],
+        [
+            "7",
+            "Sahlen's Six Hours of the Glen",
+            "DP/GT",
+            "June 7",
+            "7"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

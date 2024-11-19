@@ -1,0 +1,32 @@
+{
+    "id": "239a9a04db7a7eee9a20fee0323ceebc3cd25f04e610950ec86129368bbfc6ec",
+    "metadata": "cre_doc_template_mgt | ref_template_types",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Template_Type_Code",
+        "Template_Type_Description"
+    ],
+    "cell": [
+        [
+            "PPT",
+            "Presentation"
+        ],
+        [
+            "CV",
+            "CV"
+        ],
+        [
+            "AD",
+            "Advertisement"
+        ],
+        [
+            "PP",
+            "Paper"
+        ],
+        [
+            "BK",
+            "Book"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

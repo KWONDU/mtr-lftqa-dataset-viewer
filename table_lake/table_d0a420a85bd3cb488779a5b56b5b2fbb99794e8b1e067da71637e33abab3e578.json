@@ -1,0 +1,80 @@
+{
+    "id": "d0a420a85bd3cb488779a5b56b5b2fbb99794e8b1e067da71637e33abab3e578",
+    "metadata": "party_host | party",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Party_ID",
+        "Party_Theme",
+        "Location",
+        "First_year",
+        "Last_year",
+        "Number_of_hosts"
+    ],
+    "cell": [
+        [
+            "1",
+            "Spring",
+            "Hemkade 48 Zaandam",
+            "2000",
+            "2001",
+            "5"
+        ],
+        [
+            "2",
+            "Club Q-BASE",
+            "Hemkade 48 Zaandam",
+            "2002",
+            "2002",
+            "23"
+        ],
+        [
+            "3",
+            "Hardcore Resurrection",
+            "Various locations",
+            "2000",
+            "2003",
+            "4"
+        ],
+        [
+            "4",
+            "Teqnology",
+            "Heineken Music Hall Amsterdam",
+            "2002",
+            "2004",
+            "6"
+        ],
+        [
+            "5",
+            "Qlubtempo",
+            "Hemkade 48 Zaandam, Heineken Music Hall Amsterdam",
+            "2001",
+            "2007",
+            "31"
+        ],
+        [
+            "6",
+            "QrimeTime",
+            "Heineken Music Hall Amsterdam",
+            "2004",
+            "2007",
+            "4"
+        ],
+        [
+            "7",
+            "In Qontrol",
+            "RAI Amsterdam",
+            "2004",
+            "2010",
+            "7"
+        ],
+        [
+            "8",
+            "Houseqlassics",
+            "Various locations",
+            "1999",
+            "2010",
+            "18"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

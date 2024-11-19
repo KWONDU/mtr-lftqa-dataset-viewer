@@ -1,0 +1,36 @@
+{
+    "id": "ec8f3932c1033d3383db4704b07db489ff5e7849698b09a7475143e0996df621",
+    "metadata": "hospital_1 | stay",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "StayID",
+        "Patient",
+        "Room",
+        "StayStart",
+        "StayEnd"
+    ],
+    "cell": [
+        [
+            "3215",
+            "100000001",
+            "111",
+            "2008-05-01",
+            "2008-05-04"
+        ],
+        [
+            "3216",
+            "100000003",
+            "123",
+            "2008-05-03",
+            "2008-05-14"
+        ],
+        [
+            "3217",
+            "100000004",
+            "112",
+            "2008-05-02",
+            "2008-05-03"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

@@ -1,0 +1,104 @@
+{
+    "id": "e4df661464619a63aef1cec2e86fdc8d83a5271abc7e999dfaa4c2b71053288b",
+    "metadata": "cre_doc_template_mgt | paragraphs",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Paragraph_ID",
+        "Document_ID",
+        "Paragraph_Text",
+        "Other_Details"
+    ],
+    "cell": [
+        [
+            "7",
+            "2394",
+            "Korea",
+            "None"
+        ],
+        [
+            "9",
+            "3",
+            "Somalia",
+            "None"
+        ],
+        [
+            "65",
+            "50123",
+            "Palestinian Territory",
+            "None"
+        ],
+        [
+            "241",
+            "651512",
+            "Jersey",
+            "None"
+        ],
+        [
+            "3708",
+            "33930",
+            "UK",
+            "None"
+        ],
+        [
+            "9946",
+            "385906526",
+            "Fiji",
+            "None"
+        ],
+        [
+            "16615",
+            "80",
+            "Japan",
+            "None"
+        ],
+        [
+            "1104059",
+            "3830",
+            "Senegal",
+            "None"
+        ],
+        [
+            "243399026",
+            "651512",
+            "Indonesia",
+            "None"
+        ],
+        [
+            "280120913",
+            "2394",
+            "Ukraine",
+            "None"
+        ],
+        [
+            "510442723",
+            "2394",
+            "Korea",
+            "None"
+        ],
+        [
+            "571212310",
+            "16514113",
+            "Brazil",
+            "None"
+        ],
+        [
+            "608931827",
+            "80",
+            "Micronesia",
+            "None"
+        ],
+        [
+            "765713812",
+            "16514113",
+            "Ireland",
+            "None"
+        ],
+        [
+            "946335436",
+            "3540024",
+            "Papua New Guinea",
+            "None"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

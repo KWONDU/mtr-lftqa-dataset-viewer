@@ -1,0 +1,72 @@
+{
+    "id": "70080c29f985d753fde9cfd1498199f238e46dc345ec2df80802ec8f7a9d09ba",
+    "metadata": "assets_maintenance | skills_required_to_fix",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "part_fault_id",
+        "skill_id"
+    ],
+    "cell": [
+        [
+            "3",
+            "2"
+        ],
+        [
+            "12",
+            "3"
+        ],
+        [
+            "6",
+            "1"
+        ],
+        [
+            "15",
+            "3"
+        ],
+        [
+            "1",
+            "3"
+        ],
+        [
+            "1",
+            "1"
+        ],
+        [
+            "5",
+            "3"
+        ],
+        [
+            "13",
+            "2"
+        ],
+        [
+            "14",
+            "3"
+        ],
+        [
+            "10",
+            "2"
+        ],
+        [
+            "2",
+            "1"
+        ],
+        [
+            "7",
+            "2"
+        ],
+        [
+            "1",
+            "3"
+        ],
+        [
+            "15",
+            "3"
+        ],
+        [
+            "15",
+            "2"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

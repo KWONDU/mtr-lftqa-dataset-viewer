@@ -1,0 +1,32 @@
+{
+    "id": "9446e114c8aceb85f9be88673fa6487008235b9fe0de93035449e05d994a3bbc",
+    "metadata": "cre_docs_and_epenses | projects",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Project_ID",
+        "Project_Details"
+    ],
+    "cell": [
+        [
+            "30",
+            "Society Research project"
+        ],
+        [
+            "35",
+            "Internet of Things project"
+        ],
+        [
+            "105",
+            "Graph Database project"
+        ],
+        [
+            "134",
+            "Human Resource project"
+        ],
+        [
+            "195",
+            "Population Research project"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

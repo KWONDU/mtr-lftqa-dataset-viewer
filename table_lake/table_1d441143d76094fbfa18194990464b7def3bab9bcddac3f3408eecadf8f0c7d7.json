@@ -1,0 +1,57 @@
+{
+    "id": "1d441143d76094fbfa18194990464b7def3bab9bcddac3f3408eecadf8f0c7d7",
+    "metadata": "phone_market | market",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Market_ID",
+        "District",
+        "Num_of_employees",
+        "Num_of_shops",
+        "Ranking"
+    ],
+    "cell": [
+        [
+            "1",
+            "Alberta",
+            "1966",
+            "40.0",
+            "1"
+        ],
+        [
+            "2",
+            "British Columbia",
+            "1965",
+            "49.0",
+            "21"
+        ],
+        [
+            "3",
+            "New Brunswick",
+            "1978",
+            "10.0",
+            "4"
+        ],
+        [
+            "4",
+            "Nova Scotia",
+            "1968",
+            "32.0",
+            "5"
+        ],
+        [
+            "5",
+            "Ontario",
+            "1958",
+            "54.0",
+            "3"
+        ],
+        [
+            "6",
+            "Quebec",
+            "1958",
+            "54.0",
+            "8"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

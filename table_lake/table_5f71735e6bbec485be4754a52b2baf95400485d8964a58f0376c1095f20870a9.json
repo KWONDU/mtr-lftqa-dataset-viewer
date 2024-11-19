@@ -1,0 +1,50 @@
+{
+    "id": "5f71735e6bbec485be4754a52b2baf95400485d8964a58f0376c1095f20870a9",
+    "metadata": "student_assessment | courses",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "course_id",
+        "course_name",
+        "course_description",
+        "other_details"
+    ],
+    "cell": [
+        [
+            "301",
+            "statistics",
+            "statistics",
+            "None"
+        ],
+        [
+            "302",
+            "English",
+            "English",
+            "None"
+        ],
+        [
+            "303",
+            "French",
+            "French",
+            "None"
+        ],
+        [
+            "304",
+            "database",
+            "database",
+            "None"
+        ],
+        [
+            "305",
+            "data structure",
+            "data structure",
+            "None"
+        ],
+        [
+            "306",
+            "Art history",
+            "Art history",
+            "None"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

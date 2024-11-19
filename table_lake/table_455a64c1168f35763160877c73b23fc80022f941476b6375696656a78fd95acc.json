@@ -1,0 +1,68 @@
+{
+    "id": "455a64c1168f35763160877c73b23fc80022f941476b6375696656a78fd95acc",
+    "metadata": "pilot_record | pilot",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Pilot_ID",
+        "Pilot_name",
+        "Rank",
+        "Age",
+        "Nationality",
+        "Position",
+        "Join_Year",
+        "Team"
+    ],
+    "cell": [
+        [
+            "1",
+            "Patrick O'Bryant",
+            "13",
+            "33",
+            "United States",
+            "Center Team",
+            "2009",
+            "Bradley"
+        ],
+        [
+            "2",
+            "Jermaine O'Neal",
+            "6",
+            "40",
+            "United States",
+            "Forward-Center Team",
+            "2008",
+            "Eau Claire High School"
+        ],
+        [
+            "3",
+            "Dan O'Sullivan",
+            "45",
+            "37",
+            "United States",
+            "Center Team",
+            "1999",
+            "Fordham"
+        ],
+        [
+            "4",
+            "Charles Oakley",
+            "34",
+            "22",
+            "United Kindom",
+            "Forward Team",
+            "2001",
+            "Virginia Union"
+        ],
+        [
+            "5",
+            "Hakeem Olajuwon",
+            "34",
+            "32",
+            "Nigeria",
+            "Center Team",
+            "2010",
+            "Houston"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

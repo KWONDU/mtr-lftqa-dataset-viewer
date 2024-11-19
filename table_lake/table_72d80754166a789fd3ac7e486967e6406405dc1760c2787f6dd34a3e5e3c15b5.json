@@ -1,0 +1,50 @@
+{
+    "id": "72d80754166a789fd3ac7e486967e6406405dc1760c2787f6dd34a3e5e3c15b5",
+    "metadata": "soccer_2 | tryout",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "pID",
+        "cName",
+        "pPos",
+        "decision"
+    ],
+    "cell": [
+        [
+            "10001",
+            "LSU",
+            "goalie",
+            "no"
+        ],
+        [
+            "10001",
+            "ASU",
+            "goalie",
+            "yes"
+        ],
+        [
+            "20002",
+            "FSU",
+            "striker",
+            "yes"
+        ],
+        [
+            "30003",
+            "OU",
+            "mid",
+            "no"
+        ],
+        [
+            "40004",
+            "ASU",
+            "goalie",
+            "no"
+        ],
+        [
+            "50005",
+            "LSU",
+            "mid",
+            "no"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

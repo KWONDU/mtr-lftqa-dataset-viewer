@@ -1,0 +1,68 @@
+{
+    "id": "79ca4622a7c07f2bb4e3660a1fe23f12b9e44378d7c344730b9a57f4140a5f4e",
+    "metadata": "hospital_1 | physician",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "EmployeeID",
+        "Name",
+        "Position",
+        "SSN"
+    ],
+    "cell": [
+        [
+            "1",
+            "John Dorian",
+            "Staff Internist",
+            "111111111"
+        ],
+        [
+            "2",
+            "Elliot Reid",
+            "Attending Physician",
+            "222222222"
+        ],
+        [
+            "3",
+            "Christopher Turk",
+            "Surgical Attending Physician",
+            "333333333"
+        ],
+        [
+            "4",
+            "Percival Cox",
+            "Senior Attending Physician",
+            "444444444"
+        ],
+        [
+            "5",
+            "Bob Kelso",
+            "Head Chief of Medicine",
+            "555555555"
+        ],
+        [
+            "6",
+            "Todd Quinlan",
+            "Surgical Attending Physician",
+            "666666666"
+        ],
+        [
+            "7",
+            "John Wen",
+            "Surgical Attending Physician",
+            "777777777"
+        ],
+        [
+            "8",
+            "Keith Dudemeister",
+            "MD Resident",
+            "888888888"
+        ],
+        [
+            "9",
+            "Molly Clock",
+            "Attending Psychiatrist",
+            "999999999"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

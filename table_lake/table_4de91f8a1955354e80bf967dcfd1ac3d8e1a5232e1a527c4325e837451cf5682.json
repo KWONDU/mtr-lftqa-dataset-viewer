@@ -1,0 +1,50 @@
+{
+    "id": "4de91f8a1955354e80bf967dcfd1ac3d8e1a5232e1a527c4325e837451cf5682",
+    "metadata": "museum_visit | visitor",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "ID",
+        "Name",
+        "Level_of_membership",
+        "Age"
+    ],
+    "cell": [
+        [
+            "1",
+            "Gonzalo Higua\u00c3\u00adn",
+            "8",
+            "35"
+        ],
+        [
+            "2",
+            "Guti Midfielder",
+            "5",
+            "28"
+        ],
+        [
+            "3",
+            "Arjen Robben",
+            "1",
+            "27"
+        ],
+        [
+            "4",
+            "Ra\u00c3\u00bal Brown",
+            "2",
+            "56"
+        ],
+        [
+            "5",
+            "Fernando Gago",
+            "6",
+            "36"
+        ],
+        [
+            "6",
+            "Rafael van der Vaart",
+            "1",
+            "25"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

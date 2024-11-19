@@ -1,0 +1,53 @@
+{
+    "id": "c59bf85d5bc410590deb0dbfa7094106e64805b09aa571015cdf095dda57c874",
+    "metadata": "device | stock",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Shop_ID",
+        "Device_ID",
+        "Quantity"
+    ],
+    "cell": [
+        [
+            "1",
+            "6",
+            "100"
+        ],
+        [
+            "2",
+            "6",
+            "110"
+        ],
+        [
+            "3",
+            "6",
+            "134"
+        ],
+        [
+            "4",
+            "6",
+            "56"
+        ],
+        [
+            "1",
+            "4",
+            "200"
+        ],
+        [
+            "11",
+            "6",
+            "112"
+        ],
+        [
+            "3",
+            "4",
+            "124"
+        ],
+        [
+            "9",
+            "4",
+            "51"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

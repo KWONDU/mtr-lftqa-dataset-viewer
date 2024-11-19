@@ -1,0 +1,52 @@
+{
+    "id": "c4ba3563c04320ead573562400d2c445867dd316a10644ac73ac9b348e33fc19",
+    "metadata": "college_3 | minor_in",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "StuID",
+        "DNO"
+    ],
+    "cell": [
+        [
+            "1004",
+            "520"
+        ],
+        [
+            "1005",
+            "550"
+        ],
+        [
+            "1006",
+            "50"
+        ],
+        [
+            "1007",
+            "520"
+        ],
+        [
+            "1008",
+            "550"
+        ],
+        [
+            "1014",
+            "90"
+        ],
+        [
+            "1015",
+            "140"
+        ],
+        [
+            "1016",
+            "190"
+        ],
+        [
+            "1027",
+            "530"
+        ],
+        [
+            "1031",
+            "540"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

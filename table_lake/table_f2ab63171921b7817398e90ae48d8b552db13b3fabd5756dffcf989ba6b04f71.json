@@ -1,0 +1,28 @@
+{
+    "id": "f2ab63171921b7817398e90ae48d8b552db13b3fabd5756dffcf989ba6b04f71",
+    "metadata": "local_govt_and_lot | organizations",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "organization_id",
+        "parent_organization_id",
+        "organization_details"
+    ],
+    "cell": [
+        [
+            "7",
+            "7",
+            "Reinger, Hudson and Nolan Group"
+        ],
+        [
+            "8",
+            "7",
+            "Denesik and Sons Party"
+        ],
+        [
+            "10",
+            "8",
+            "Robel-Schulist Group"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

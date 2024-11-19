@@ -1,0 +1,36 @@
+{
+    "id": "b3530282830e547288050b54f3834939a0b54fc12a5d08114e58a7a719db3d76",
+    "metadata": "roller_coaster | country",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Country_ID",
+        "Name",
+        "Population",
+        "Area",
+        "Languages"
+    ],
+    "cell": [
+        [
+            "1",
+            "Austria",
+            "8206524",
+            "83871",
+            "German"
+        ],
+        [
+            "2",
+            "Finland",
+            "5261008",
+            "338145",
+            "Finnish Swedish"
+        ],
+        [
+            "3",
+            "Sweden",
+            "9047752",
+            "449964",
+            "Swedish"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

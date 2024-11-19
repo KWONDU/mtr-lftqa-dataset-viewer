@@ -1,0 +1,40 @@
+{
+    "id": "fb81d3987bf4daf41aa7bbec664798e271b94455a3814656f1df7e19412b24b7",
+    "metadata": "epinions_1 | useracct",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "u_id",
+        "name"
+    ],
+    "cell": [
+        [
+            "1",
+            "Helen"
+        ],
+        [
+            "2",
+            "Mark"
+        ],
+        [
+            "3",
+            "Terry"
+        ],
+        [
+            "4",
+            "Nancy"
+        ],
+        [
+            "5",
+            "Rosie"
+        ],
+        [
+            "6",
+            "Roxi"
+        ],
+        [
+            "7",
+            "Emily"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

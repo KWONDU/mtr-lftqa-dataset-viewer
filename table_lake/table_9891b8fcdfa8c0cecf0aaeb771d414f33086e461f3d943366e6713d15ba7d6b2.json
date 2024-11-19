@@ -1,0 +1,99 @@
+{
+    "id": "9891b8fcdfa8c0cecf0aaeb771d414f33086e461f3d943366e6713d15ba7d6b2",
+    "metadata": "orchestra | conductor",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Conductor_ID",
+        "Name",
+        "Age",
+        "Nationality",
+        "Year_of_Work"
+    ],
+    "cell": [
+        [
+            "1",
+            "Antal Dor\u00c3\u00a1ti",
+            "40",
+            "USA",
+            "10"
+        ],
+        [
+            "2",
+            "Igor Stravinsky",
+            "41",
+            "UK",
+            "11"
+        ],
+        [
+            "3",
+            "Colin Davis",
+            "42",
+            "USA",
+            "6"
+        ],
+        [
+            "4",
+            "Paul Jorgensen",
+            "43",
+            "UK",
+            "11"
+        ],
+        [
+            "5",
+            "Antal Brown",
+            "43",
+            "USA",
+            "20"
+        ],
+        [
+            "6",
+            "Charles Dutoit",
+            "43",
+            "France",
+            "12"
+        ],
+        [
+            "7",
+            "Gerard Schwarz",
+            "50",
+            "USA",
+            "20"
+        ],
+        [
+            "8",
+            "Pierre Boulez",
+            "49",
+            "UK",
+            "11"
+        ],
+        [
+            "9",
+            "Valeri Gergiev",
+            "47",
+            "USA",
+            "16"
+        ],
+        [
+            "10",
+            "Robert Craft",
+            "63",
+            "UK",
+            "21"
+        ],
+        [
+            "11",
+            "Seiji Ozawa",
+            "43",
+            "USA",
+            "10"
+        ],
+        [
+            "12",
+            "Michael Tilson Thomas",
+            "42",
+            "France",
+            "12"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

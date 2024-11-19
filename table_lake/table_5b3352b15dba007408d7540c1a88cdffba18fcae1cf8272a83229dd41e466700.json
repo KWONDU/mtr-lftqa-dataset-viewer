@@ -1,0 +1,43 @@
+{
+    "id": "5b3352b15dba007408d7540c1a88cdffba18fcae1cf8272a83229dd41e466700",
+    "metadata": "film_rank | market",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Market_ID",
+        "Country",
+        "Number_cities"
+    ],
+    "cell": [
+        [
+            "1",
+            "Japan",
+            "209"
+        ],
+        [
+            "2",
+            "China",
+            "540"
+        ],
+        [
+            "3",
+            "USA",
+            "700"
+        ],
+        [
+            "4",
+            "Russia",
+            "231"
+        ],
+        [
+            "5",
+            "France",
+            "212"
+        ],
+        [
+            "6",
+            "Poland",
+            "453"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

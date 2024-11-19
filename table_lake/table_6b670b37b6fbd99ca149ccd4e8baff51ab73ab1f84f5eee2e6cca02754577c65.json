@@ -1,0 +1,88 @@
+{
+    "id": "6b670b37b6fbd99ca149ccd4e8baff51ab73ab1f84f5eee2e6cca02754577c65",
+    "metadata": "ship_1 | ship",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Ship_ID",
+        "Name",
+        "Type",
+        "Built_Year",
+        "Class",
+        "Flag"
+    ],
+    "cell": [
+        [
+            "1",
+            "HMS Manxman",
+            "Panamax",
+            "1997.0",
+            "KR",
+            "Panama"
+        ],
+        [
+            "2",
+            "HMS Gorgon",
+            "Panamax",
+            "1998.0",
+            "KR",
+            "Panama"
+        ],
+        [
+            "3",
+            "HM Cutter Avenger",
+            "Panamax",
+            "1997.0",
+            "KR",
+            "Panama"
+        ],
+        [
+            "4",
+            "HM Schooner Hotspur",
+            "Panamax",
+            "1998.0",
+            "KR",
+            "Panama"
+        ],
+        [
+            "5",
+            "HMS Destiny",
+            "Panamax",
+            "1998.0",
+            "KR",
+            "Panama"
+        ],
+        [
+            "6",
+            "HMS Trojan",
+            "Panamax",
+            "1997.0",
+            "KR",
+            "Panama"
+        ],
+        [
+            "7",
+            "HM Sloop Sparrow",
+            "Panamax",
+            "1997.0",
+            "KR",
+            "Panama"
+        ],
+        [
+            "8",
+            "HMS Phalarope",
+            "Panamax",
+            "1997.0",
+            "KR",
+            "Panama"
+        ],
+        [
+            "9",
+            "HMS Undine",
+            "Panamax",
+            "1998.0",
+            "GL",
+            "Malta"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

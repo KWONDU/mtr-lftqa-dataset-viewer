@@ -1,0 +1,40 @@
+{
+    "id": "4450e2a25bd6d712cfaf06f34f5114d664dc91adc47188980764b4588fad4673",
+    "metadata": "icfp_1 | papers",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "paperID",
+        "title"
+    ],
+    "cell": [
+        [
+            "200",
+            "Just do it: Simple Monadic Equational Reasoning"
+        ],
+        [
+            "201",
+            "Proving the Unique Fixed-Point Principle Correct: An Adventure with Category Theory"
+        ],
+        [
+            "202",
+            "Functional Pearl: Modular Rollback through Control Logging"
+        ],
+        [
+            "203",
+            "An Equivalence-Preserving CPS Translation via Multi-Language Semantics"
+        ],
+        [
+            "204",
+            "Making Standard ML a Practical Database Programming Language"
+        ],
+        [
+            "205",
+            "Nameless, Painless"
+        ],
+        [
+            "206",
+            "Binders Unbound"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

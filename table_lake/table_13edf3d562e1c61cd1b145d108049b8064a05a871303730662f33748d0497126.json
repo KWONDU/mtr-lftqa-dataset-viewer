@@ -1,0 +1,20 @@
+{
+    "id": "13edf3d562e1c61cd1b145d108049b8064a05a871303730662f33748d0497126",
+    "metadata": "tracking_grants_for_research | document_types",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "document_type_code",
+        "document_description"
+    ],
+    "cell": [
+        [
+            "APP",
+            "Initial Application"
+        ],
+        [
+            "REG",
+            "Regular"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

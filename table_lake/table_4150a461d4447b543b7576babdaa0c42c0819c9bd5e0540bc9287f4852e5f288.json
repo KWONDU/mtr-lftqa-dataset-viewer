@@ -1,0 +1,71 @@
+{
+    "id": "4150a461d4447b543b7576babdaa0c42c0819c9bd5e0540bc9287f4852e5f288",
+    "metadata": "ship_mission | ship",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Ship_ID",
+        "Name",
+        "Type",
+        "Nationality",
+        "Tonnage"
+    ],
+    "cell": [
+        [
+            "1",
+            "Corbridge",
+            "Cargo ship",
+            "United Kingdom",
+            "3687"
+        ],
+        [
+            "2",
+            "Farringford",
+            "Battle ship",
+            "United States",
+            "3146"
+        ],
+        [
+            "3",
+            "Dromonby",
+            "Cargo ship",
+            "United Kingdom",
+            "3627"
+        ],
+        [
+            "4",
+            "Author",
+            "Cargo ship",
+            "United Kingdom",
+            "3496"
+        ],
+        [
+            "5",
+            "Trader",
+            "Battle ship",
+            "United Kingdom",
+            "3608"
+        ],
+        [
+            "6",
+            "Ariadne",
+            "Cargo ship",
+            "United States",
+            "3035"
+        ],
+        [
+            "7",
+            "Appam",
+            "Battle ship",
+            "United Kingdom",
+            "7781"
+        ],
+        [
+            "8",
+            "Clan McTavish",
+            "Cargo ship",
+            "United States",
+            "5816"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

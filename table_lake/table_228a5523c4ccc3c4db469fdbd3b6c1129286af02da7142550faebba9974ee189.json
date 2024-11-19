@@ -1,0 +1,38 @@
+{
+    "id": "228a5523c4ccc3c4db469fdbd3b6c1129286af02da7142550faebba9974ee189",
+    "metadata": "sports_competition | club",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "ClubID",
+        "ClubName",
+        "ClubDesc",
+        "ClubLocation"
+    ],
+    "cell": [
+        [
+            "1",
+            "Bootup Baltimore",
+            "Refurbish computers; teach kids and adults about computer basics.",
+            "AKW"
+        ],
+        [
+            "2",
+            "Hopkins Student Enterprises",
+            "Venture capital fund for student business.",
+            "AKW"
+        ],
+        [
+            "3",
+            "Pen and Paper Gaming",
+            "Play pen and paper games on campus.",
+            "HHH"
+        ],
+        [
+            "4",
+            "Tennis Club",
+            "A competitive tennis club.",
+            "AKW"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

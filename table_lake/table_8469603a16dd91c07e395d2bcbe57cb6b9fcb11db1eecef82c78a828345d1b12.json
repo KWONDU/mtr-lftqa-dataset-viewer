@@ -1,0 +1,20 @@
+{
+    "id": "8469603a16dd91c07e395d2bcbe57cb6b9fcb11db1eecef82c78a828345d1b12",
+    "metadata": "cre_theme_park | royal_family",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Royal_Family_ID",
+        "Royal_Family_Details"
+    ],
+    "cell": [
+        [
+            "9561",
+            "None"
+        ],
+        [
+            "9919",
+            "None"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

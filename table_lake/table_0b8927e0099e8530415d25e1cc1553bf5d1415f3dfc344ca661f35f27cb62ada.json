@@ -1,0 +1,38 @@
+{
+    "id": "0b8927e0099e8530415d25e1cc1553bf5d1415f3dfc344ca661f35f27cb62ada",
+    "metadata": "cre_doc_tracking_db | ref_locations",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Location_Code",
+        "Location_Name",
+        "Location_Description"
+    ],
+    "cell": [
+        [
+            "b",
+            "Brazil",
+            ""
+        ],
+        [
+            "c",
+            "Canada",
+            ""
+        ],
+        [
+            "e",
+            "Edinburgh",
+            ""
+        ],
+        [
+            "n",
+            "Nanjing",
+            ""
+        ],
+        [
+            "x",
+            "Xiamen",
+            ""
+        ]
+    ],
+    "source": "spider-tableQA"
+}

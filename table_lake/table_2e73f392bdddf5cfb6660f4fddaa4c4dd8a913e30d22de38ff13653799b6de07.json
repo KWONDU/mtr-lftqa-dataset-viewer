@@ -1,0 +1,44 @@
+{
+    "id": "2e73f392bdddf5cfb6660f4fddaa4c4dd8a913e30d22de38ff13653799b6de07",
+    "metadata": "e_government | organizations",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "organization_id",
+        "date_formed",
+        "organization_name",
+        "uk_vat_number"
+    ],
+    "cell": [
+        [
+            "1",
+            "2016-08-24 23:52:48",
+            "Labour Party",
+            "2157"
+        ],
+        [
+            "2",
+            "2016-10-01 12:42:01",
+            "Plaid Cymru",
+            "7459"
+        ],
+        [
+            "3",
+            "2016-10-09 07:22:53",
+            "Conservative",
+            "1211"
+        ],
+        [
+            "4",
+            "2017-04-06 23:59:16",
+            "Liberal Democrats",
+            "7237"
+        ],
+        [
+            "5",
+            "2016-07-28 01:45:10",
+            "Green Party",
+            "4271"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

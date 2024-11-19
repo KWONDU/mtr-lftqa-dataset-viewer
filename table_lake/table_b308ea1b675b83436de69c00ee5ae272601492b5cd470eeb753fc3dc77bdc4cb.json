@@ -1,0 +1,43 @@
+{
+    "id": "b308ea1b675b83436de69c00ee5ae272601492b5cd470eeb753fc3dc77bdc4cb",
+    "metadata": "course_teach | course_arrange",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Course_ID",
+        "Teacher_ID",
+        "Grade"
+    ],
+    "cell": [
+        [
+            "2",
+            "5",
+            "1"
+        ],
+        [
+            "2",
+            "3",
+            "3"
+        ],
+        [
+            "3",
+            "2",
+            "5"
+        ],
+        [
+            "4",
+            "6",
+            "7"
+        ],
+        [
+            "5",
+            "6",
+            "1"
+        ],
+        [
+            "10",
+            "7",
+            "4"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

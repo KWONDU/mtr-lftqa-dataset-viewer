@@ -1,0 +1,24 @@
+{
+    "id": "b6e072bfe8f2c11007c9e70d0e6dd68b0be40aebb447c462f55ef07a9735c871",
+    "metadata": "cre_doc_control_systems | ref_document_status",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "document_status_code",
+        "document_status_description"
+    ],
+    "cell": [
+        [
+            "working",
+            "currently working on"
+        ],
+        [
+            "done",
+            "mailed"
+        ],
+        [
+            "overdue",
+            "mailed late"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

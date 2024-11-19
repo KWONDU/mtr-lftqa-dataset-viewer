@@ -1,0 +1,44 @@
+{
+    "id": "e6af3bfcc4af051bff1aa661dd4c133552bdb08bf51a17a298a20fafefdf7c71",
+    "metadata": "architecture | architect",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "id",
+        "name",
+        "nationality",
+        "gender"
+    ],
+    "cell": [
+        [
+            "1",
+            "Frank Lloyd Wright",
+            "American",
+            "male"
+        ],
+        [
+            "2",
+            "Frank Gehry",
+            "Canadian",
+            "male"
+        ],
+        [
+            "3",
+            "Zaha Hadid",
+            "Iraqi, British",
+            "female"
+        ],
+        [
+            "4",
+            "Mies Van Der Rohe",
+            "German, American",
+            "male"
+        ],
+        [
+            "5",
+            "Le Corbusier",
+            "Swiss, French",
+            "male"
+        ]
+    ],
+    "source": "spider-tableQA"
+}

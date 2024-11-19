@@ -1,0 +1,56 @@
+{
+    "id": "bc06817f265cf2d255e253d6e995cd1a1fedbe50497677e45ae9ad7be98a2dc8",
+    "metadata": "manufacturer | furniture",
+    "metadata_info": "Concatenation of database ID and each table name.",
+    "header": [
+        "Furniture_ID",
+        "Name",
+        "Num_of_Component",
+        "Market_Rate"
+    ],
+    "cell": [
+        [
+            "1",
+            "Billiard table",
+            "14",
+            "52.5"
+        ],
+        [
+            "2",
+            "Chabudai",
+            "4",
+            "40.0"
+        ],
+        [
+            "3",
+            "Bookcase",
+            "6",
+            "1.0"
+        ],
+        [
+            "4",
+            "Hatstand",
+            "5",
+            "0.5"
+        ],
+        [
+            "5",
+            "Bench",
+            "5",
+            "3.5"
+        ],
+        [
+            "6",
+            "Four-poster bed",
+            "3",
+            "2.0"
+        ],
+        [
+            "7",
+            "Dining set",
+            "12",
+            "0.5"
+        ]
+    ],
+    "source": "spider-tableQA"
+}
