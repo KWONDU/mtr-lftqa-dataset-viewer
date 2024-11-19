@@ -1,21 +1,17 @@
 let isLoading = false;
-
-let classification = "";
 let dataset = [];
-
 let currentIndex = 0;
 
-function loadData(classify) {
-    if (isLoading) return;
+document.addEventListener("DOMContentLoaded", () => {
+    loadData();
+});
 
-    classification = classify;
+function loadData() {
+    if (isLoading) return;
 
     isLoading = true;
 
-    const buttons = document.querySelectorAll("#load-buttons button");
-    buttons.forEach(button => button.disabled = true);
-
-    fetch(`https://kwondu.github.io/mtr-lftqa-dataset-viewer/${classification}_dataset.json`).then(response => response.json())
+    fetch('https://kwondu.github.io/mtr-lftqa-dataset-viewer/dataset.json').then(response => response.json())
         .then((dataSet) => {
             dataset = dataSet;
             currentIndex = 0;
@@ -24,7 +20,6 @@ function loadData(classify) {
         .catch(error => console.error("[Error] loading data:", error))
         .finally(() => {
             isLoading = false;
-            buttons.forEach(button => button.disabled = false);
         });
 }
 
@@ -40,16 +35,22 @@ async function renderData(index) {
     const data = dataset[index];
     const question = data['question'];
     const answer = data['answer'];
+    const source = data['source'];
     const goldTableIDSet = data['gold_table_id_set'];
 
     const tableContainer = document.createElement("div");
     tableContainer.classList.add("table-container");
 
     const tableFetchPromises = goldTableIDSet.map((table_id, idx) =>
-        fetch(`https://kwondu.github.io/mtr-lftqa-dataset-viewer/table_lake/${classification}_table_${table_id}.json`).then(response => response.json())
+        fetch(`https://kwondu.github.io/mtr-lftqa-dataset-viewer/table_lake/table_${table_id}.json`).then(response => response.json())
             .then((table) => {
                 const tableDiv = document.createElement("div");
                 tableDiv.classList.add("table-responsive", "mb-4");
+
+                const sourceInfo = document.createElement("p");
+                sourceInfo.textContent = `Source dataset: ${source}`;
+                sourceInfo.classList.add("text-muted", "mb-2");
+                tableDiv.appendChild(sourceInfo);
 
                 const title = document.createElement("h4");
                 title.textContent = `Table ${idx + 1}: ${table['metadata']}`;
