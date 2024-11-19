@@ -39,9 +39,7 @@ async function renderData(index) {
 
     const data = dataset[index];
     const question = data['question'];
-    const translatedQuestion = data['translated_question'];
     const answer = data['answer'];
-    const translatedAnswer = data['translated_answer'];
     const goldTableIDSet = data['gold_table_id_set'];
 
     const tableContainer = document.createElement("div");
@@ -96,10 +94,8 @@ async function renderData(index) {
     qaSection.innerHTML = `
         <h3>Question</h3>
         <p>${question}</p>
-        ${translatedQuestion ? `<h3>Translated Question</h4><p>${translatedQuestion}</p>`: ""}
         <h3>Answer</h3>
         <p>${answer}</p>
-        ${translatedAnswer ? `<h3>Translated Answer</h4><p>${translatedAnswer}</p>`: ""}
     `;
 
     container.innerHTML = '';
@@ -120,6 +116,27 @@ function showPrev() {
 }
 
 function updateIndexDisplay() {
-    const indexDisplay = document.getElementById("data-index");
-    indexDisplay.textContent = `${currentIndex + 1} / ${dataset.length}`;
+    const indexInput = document.getElementById("data-index-input");
+    const totalCount = document.getElementById("total-data-count");
+
+    indexInput.value = currentIndex + 1;
+    indexInput.max = dataset.length;
+    totalCount.textContent = "/ " + dataset.length;
+}
+
+function handleKeyPress(event) {
+    if (event.key === "Enter") {
+        handleIndexChange();
+    }
+}
+
+function handleIndexChange() {
+    const indexInput = document.getElementById("data-index-input");
+    let newIndex = parseInt(indexInput.value) - 1;
+    if (!isNaN(newIndex) && newIndex >= 0 && newIndex < dataset.length) {
+        currentIndex = newIndex;
+        renderData(currentIndex);
+    } else {
+        indexInput.value = currentIndex + 1;
+    }
 }

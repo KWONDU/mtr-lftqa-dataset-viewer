@@ -23,7 +23,17 @@
         
         <div class="pagination mt-3">
             <button onclick="showPrev()" class="btn btn-secondary">Previous</button>
-            <span id="data-index" class="mx-3"></span>
+            <div>
+                <input id="data-index-input" type="number" 
+                    onkeypress="handleKeyPress(event)" 
+                    onblur="handleIndexChange()" 
+                    class="form-control d-inline-block text-center mx-1" 
+                    style="width: 60px;">
+                <span id="total-data-count" 
+                    class="mx-2" 
+                    style="font-size: 1.2rem;">
+                </span>
+            </div>
             <button onclick="showNext()" class="btn btn-secondary">Next</button>
         </div>
 
